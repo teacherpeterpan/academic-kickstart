@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Liangming Pan
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: National University of Singapore
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include natural language generation, knowlege graph and multi-media computing.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Text Generation
+- Knowledge Graph
+- Multi-media Learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science
+    institution: National University of Singapore
+    year: 2018
+  - course: MEng in Computer Science
+    institution: Tsinghua University
+    year: 2014
+  - course: BSc in Software Engineering
+    institution: Beihang University
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'mailto:e0272310@u.nus.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=JcjjOTUAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/teacherpeterpan/
+- icon: dblp
+  icon_pack: ai
+  link: https://dblp.uni-trier.de/pers/hd/p/Pan:Liangming
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +70,29 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Liangming Pan (潘亮铭) is a third year Computer Science Ph.D. student at National University of Singapore, jointly advised by Prof. [Min-Yen Kan][Min] and Prof. [Tat-Seng Chua][Chua]. Prior to joining NUS, he received a Master degree from School of Computer Science at Tsinghua University in June, 2017, working with Prof. [Juanzi Li][juanzili] and Prof. [Jie Tang][jietang]. He obtained the Bachelor degree in Beihang University (2010 - 2014). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His board research interests include knowledge base, natural language processing, and data mining. 
+To be specific, his research topics include neural question generation, text style transfer, and zero/few-shot image recognition. 
+<!-- *multi-media structure learning of food recipes*.  -->
+
+[NGS]: http://www.nus.edu.sg/ngs/
+[Tsinghua]: http://www.tsinghua.edu.cn/publish/newthu/index.html
+[juanzili]: http://keg.cs.tsinghua.edu.cn/persons/ljz/
+[jietang]: http://keg.cs.tsinghua.edu.cn/jietang/
+[BUAA]: http://www.buaa.edu.cn/
+[SOC]: http://www.comp.nus.edu.sg/
+[NUS]: http://www.nus.edu.sg/
+[Chua]: http://www.comp.nus.edu.sg/~chuats/
+[NExT]: http://next.comp.nus.edu.sg/
+[Min]: http://www.comp.nus.edu.sg/~kanmy/
+[WING]: http://wing.comp.nus.edu.sg/
+
+<!-- News
+======
+
+- **[Nov 11, 2019]**
+  One paper is accepted by [AAAI 2020](https://AAAI.org/Conferences/AAAI-20/) about Zero-shot Food Ingredients Recognition!
+
+- **[May 22, 2019]**
+  A survey paper on Neural Question Generation (NQG) is posted in the [arXiv](https://arxiv.org/abs/1905.08949).  -->
