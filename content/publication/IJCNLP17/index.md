@@ -36,6 +36,12 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
+links:
+- icon: map-marker-alt
+  icon_pack: fas
+  name: IJCNLP, 2017
+  url: http://ijcnlp2017.org/site/page.aspx?pid=901&sid=1133&lang=en
+
 url_pdf: /files/publications/IJCNLP17_Paper.pdf
 url_code:
 url_dataset:

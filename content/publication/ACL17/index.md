@@ -36,6 +36,12 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
+links:
+- icon: map-marker-alt
+  icon_pack: fas
+  name: ACL, 2017
+  url: http://acl2017.org/
+
 url_pdf: /files/publications/ACL17_Paper.pdf
 url_code:
 url_dataset:

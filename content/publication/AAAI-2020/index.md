@@ -34,6 +34,12 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
+links:
+- icon: map-marker-alt
+  icon_pack: fas
+  name: AAAI, 2020
+  url: https://aaai.org/Conferences/AAAI-20/
+
 url_pdf: /files/publications/AAAI20_Paper.pdf
 url_code:
 url_dataset:
