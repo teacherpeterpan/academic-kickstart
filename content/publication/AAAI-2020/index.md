@@ -24,7 +24,7 @@ abstract: "Recognizing ingredients for a given dish image is at the core of auto
 
 tags: []
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -34,7 +34,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: /files/publications/AAAI-20.pdf
+url_pdf: /files/publications/AAAI20_Paper.pdf
 url_code:
 url_dataset:
 url_poster:
@@ -48,7 +48,7 @@ url_video:
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Left"
   preview_only: false
 
 # Associated Projects (optional).
