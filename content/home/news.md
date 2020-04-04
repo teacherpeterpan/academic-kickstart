@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "ACL 2020"
+  organization_url = "https://acl2020.org/"
+  title = "Two paper accepted by ACL 2020!"
+  url = "https://acl2020.org/"
+  # certificate_url = "http://cvpr2020.thecvf.com/"
+  date_start = "2020-04-04"
+  date_end = ""
+  description = "Two of our papers, \"Semantic Graphs for Generating Deep Questions\" and \"Expertise Style Transfer: A New Task Towards Better Communication between Experts and Laymenwas\", were accepted by ACL 2020. The paper and code link will soon be released."
+
+[[item]]
   organization = "CVPR 2020"
   organization_url = "http://cvpr2020.thecvf.com/"
   title = "One paper accepted by CVPR 2020!"
