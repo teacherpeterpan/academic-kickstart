@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   # certificate_url = "http://cvpr2020.thecvf.com/"
   date_start = "2020-04-04"
   date_end = ""
-  description = "Two of our papers, \"Semantic Graphs for Generating Deep Questions\" and \"Expertise Style Transfer: A New Task Towards Better Communication between Experts and Laymenwas\", were accepted by ACL 2020. The paper and code link will soon be released."
+  description = "Two of our papers, [\"Semantic Graphs for Generating Deep Questions\"](https://arxiv.org/pdf/2004.12704.pdf) and \"Expertise Style Transfer: A New Task Towards Better Communication between Experts and Laymenwas\", were accepted by ACL 2020. "
 
 [[item]]
   organization = "CVPR 2020"
