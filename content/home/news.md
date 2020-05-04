@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   # certificate_url = "http://cvpr2020.thecvf.com/"
   date_start = "2020-04-04"
   date_end = ""
-  description = "Two of our papers, [\"Semantic Graphs for Generating Deep Questions\"](https://arxiv.org/pdf/2004.12704.pdf) and \"Expertise Style Transfer: A New Task Towards Better Communication between Experts and Laymenwas\", were accepted by ACL 2020. "
+  description = "Two of our papers, [\"Semantic Graphs for Generating Deep Questions\"](https://arxiv.org/pdf/2004.12704.pdf) and [\"Expertise Style Transfer: A New Task Towards Better Communication between Experts and Laymenwas\"](/files/publications/ACL20_Style_Paper.pdf), were accepted by ACL 2020. "
 
 [[item]]
   organization = "CVPR 2020"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   # certificate_url = "http://cvpr2020.thecvf.com/"
   date_start = "2020-02-23"
   date_end = ""
-  description = "Our paper \"Hyperbolic Visual Embedding Learning for Zero-Shot Recognition\" was accepted by CVPR 2020 (acceptance rate: 22%). [[paper link]](http://cvpr2020.thecvf.com/)"
+  description = "Our paper \"Hyperbolic Visual Embedding Learning for Zero-Shot Recognition\" was accepted by CVPR 2020 (acceptance rate: 22%). "
 
 [[item]]
   organization = "Github"

@@ -40,7 +40,7 @@ url_pdf: https://arxiv.org/abs/1905.08949
 url_code:
 url_dataset:
 url_poster:
-url_project:
+url_project: https://github.com/teacherpeterpan/Question-Generation-Paper-List
 url_slides:
 url_source: 
 url_video:
