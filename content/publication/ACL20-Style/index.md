@@ -34,7 +34,7 @@ links:
   name: ACL, 2020
   url: http://acl2020.org/
 
-url_pdf: /files/publications/ACL20_Style_Paper.pdf
+url_pdf: https://arxiv.org/pdf/2005.00701.pdf
 url_code:
 url_dataset: https://srhthu.github.io/expertise-style-transfer/
 url_poster:
