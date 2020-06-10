@@ -42,8 +42,8 @@ links:
   name: CVPR, 2020
   url: http://cvpr2020.thecvf.com/
 
-# url_pdf: /files/publications/CVPR20_Paper.pdf
-url_pdf: 
+url_pdf: /files/publications/CVPR20_Paper.pdf
+# url_pdf: 
 url_code: https://github.com/ShaoTengLiu/Hyperbolic_ZSL
 url_dataset:
 url_poster:
