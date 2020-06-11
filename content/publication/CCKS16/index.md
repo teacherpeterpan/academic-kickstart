@@ -16,7 +16,7 @@ publishDate: 2016-09-16T09:56:27+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "CCKS, 2016"
+publication: "CCKS"
 publication_short: ""
 
 abstract: "The global knowledge sharing makes large-scale multi-lingual knowledge bases an extremely valuable resource in the Big Data era. However, current mainstream Wikipedia-based multi-lingual ontologies still face the following problems: the scarcity of non-English knowledge, the noise in the multi-lingual ontology schema relations and the limited coverage of cross-lingual owl:sameAs relations. Building a cross-lingual ontology based on other large-scale heterogenous online wikis is a promising solution for those problems. In this paper, we propose a cross-lingually boosting approach to iteratively reinforce the performance of ontology building and instance matching. Experiments output an ontology containing over 3,520,000 English instances, 800,000 Chinese instances, and over 150,000 cross-lingual instance alignments. The F1-measure improvement of Chinese instanceOf prediction achieve the highest 32%. "

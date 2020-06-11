@@ -16,7 +16,7 @@ publishDate: 2016-09-01T09:56:44+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "OM@ISWC, 2016"
+publication: "OM@ISWC"
 publication_short: ""
 
 abstract: "This paper presents the results of RiMOM in the Ontology Alignment Evaluation Initiative (OAEI) 2016. RiMOM participated in all three tracks of Instance Matching this year. In this paper, we first describe the overall framework of our system (RiMOM). Then we detail the techniques used in the framework for instance matching. Last, we give a thorough analysis on our results and discuss some future work on RiMOM. "

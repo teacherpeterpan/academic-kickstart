@@ -16,7 +16,7 @@ publishDate: 2016-10-01T09:56:34+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "KSEM, 2016"
+publication: "KSEM"
 publication_short: ""
 
 abstract: "The global knowledge sharing makes large-scale multi-lingual knowledge bases an extremely valuable resource in the Big Data era. However, current mainstream multi-lingual ontologies based on online wikis still face the limited coverage of cross-lingual knowledge links. Linking the knowledge entries distributed in different online wikis will immensely enrich the information in the online knowledge bases and benefit many applications. In this paper, we propose an unsupervised framework for cross-lingual knowledge linking. Different from traditional methods, we target the cross-lingual knowledge linking task on specific domains. We evaluate the proposed method on two knowledge linking tasks to find English-Chinese knowledge links. Experiments on English Wikipedia and Baidu Baike show that the precision improvement of cross-lingual link prediction achieve the highest 6.12 % compared with the state-of-art methods. "

@@ -16,7 +16,7 @@ publishDate: 2020-04-28T12:05:27+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ACL, 2020"
+publication: "ACL"
 publication_short: ""
 
 abstract: "This paper proposes the problem of Deep Question Generation (DQG), which aims to generate complex questions that require reasoning over multiple pieces of information of the input passage. In order to capture the global structure of the document and facilitate reasoning, we propose a novel framework which first constructs a semantic-level graph for the input document and then encodes the semantic graph by introducing an attention-based GGNN (Att-GGNN). Afterwards, we fuse the document-level and graph-level representations to perform joint training of content selection and question decoding. On the HotpotQA deep-question centric dataset, our model greatly improves performance over questions requiring reasoning over multiple facts, leading to state-of-the-art performance. The code is publicly available at https://github.com/WING-NUS/SG-Deep-Question-Generation."

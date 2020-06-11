@@ -16,7 +16,7 @@ publishDate: 2020-04-25T09:16:56+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "CVPR, 2020"
+publication: "CVPR"
 publication_short: ""
 
 abstract: "This paper proposes a Hyperbolic Visual Embedding Learning Network for zero-shot recognition. The network learns image embeddings in hyperbolic space, which is capable of preserving the hierarchical structure of semantic classes in low dimensions. Comparing with existing zero-shot learning approaches, the network is more robust because the embedding feature in hyperbolic space better represents class hierarchy and thereby avoid misleading resulted from unrelated siblings. Our network outperforms exiting baselines under hierarchical evaluation with an extremely challenging setting, i.e., learning only from 1,000 categories to recognize 20,841 unseen categories. While under flat evaluation, it has competitive performance as state-of-the-art methods but with five times lower embedding dimensions. Our code is publicly available."

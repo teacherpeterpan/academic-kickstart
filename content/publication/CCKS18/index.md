@@ -16,7 +16,7 @@ publishDate: 2018-08-01T09:56:24+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "CCKS, 2018"
+publication: "CCKS"
 publication_short: ""
 
 abstract: "Applying data mining techniques to help researchers discover, understand, and predict research trends is a highly beneficial but challenging task. The existing researches mainly use topics extracted from literatures as objects to build predicting model. To get more accurate results, we use concepts instead of topics constructing a model to predict their rise and fall trends, considering the rhetorical characteristics of them. The experimental results based on ACL1965-2017 literature dataset show the clues of the scientific trends can be found in the rhetorical distribution of concepts. After adding the relevant concepts’ information, the predict model’s accuracy rate can be significantly improved, compared to the prior topic-based algorithm. "

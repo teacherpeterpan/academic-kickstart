@@ -16,7 +16,7 @@ publishDate: 2017-07-01T09:56:01+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ACL, 2017"
+publication: "ACL"
 publication_short: ""
 
 abstract: "What prerequisite knowledge should students achieve a level of mastery before moving forward to learn subsequent coursewares? We study the extent to which the prerequisite relation between knowledge concepts in Massive Open Online Courses (MOOCs) can be inferred automatically. In particular, what kinds of information can be leverage to uncover the potential prerequisite relation between knowledge concepts. We first propose a representation learning-based method for learning latent representations of course concepts, and then investigate how different features capture the prerequisite relations between concepts. Our experiments on three datasets form Coursera show that the proposed method achieves significant improvements (+5.9-48.0% by F1-score) comparing with existing methods. "

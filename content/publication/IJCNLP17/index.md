@@ -16,7 +16,7 @@ publishDate: 2017-12-01T09:56:18+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IJCNLP, 2017"
+publication: "IJCNLP"
 publication_short: ""
 
 abstract: "Massive Open Online Courses (MOOCs), offering a new way to study online, are revolutionizing education. One challenging issue in MOOCs is how to design effective and fine-grained course concepts such that students with different backgrounds can grasp the essence of the course. In this paper, we conduct a systematic investigation of the problem of course concept extraction for MOOCs. We propose to learn latent representations for candidate concepts via an embedding-based method. Moreover, we develop a graph-based propagation algorithm to rank the candidate concepts based on the learned representations. We evaluate the proposed method using different courses from XuetangX and Coursera. Experimental results show that our method significantly outperforms all the alternative methods (+0.013-0.318 in terms of R-precision; p<<0.01, t-test). "

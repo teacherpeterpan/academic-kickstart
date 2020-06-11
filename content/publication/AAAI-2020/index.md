@@ -16,7 +16,7 @@ publishDate: 2020-01-17T23:45:28+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "AAAI, 2020"
+publication: "AAAI"
 publication_short: ""
 
 # Summary. An optional shortened abstract.
