@@ -19,6 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "UCSB NLP Group"
+  organization_url = "http://nlp.cs.ucsb.edu/"
+  title = "Joining the UC Santa Barbara NLP Group!"
+  url = "http://nlp.cs.ucsb.edu/"
+  date_start = "2020-07-20"
+  date_end = ""
+  description = "From August 2020 to July 2021, I am joining the [UC Santa Barbara Natural Language Processing Group](http://nlp.cs.ucsb.edu/) as a visiting Ph.D. student, supervised by Prof. [William Wang](https://sites.cs.ucsb.edu/~william/). "
+
+[[item]]
   organization = "ACL 2020"
   organization_url = "https://acl2020.org/"
   title = "Two paper accepted by ACL 2020!"

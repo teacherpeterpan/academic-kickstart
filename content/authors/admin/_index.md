@@ -73,8 +73,10 @@ user_groups:
 Liangming Pan (潘亮铭) is a third year Computer Science Ph.D. student at National University of Singapore, jointly advised by Prof. [Min-Yen Kan][Min] and Prof. [Tat-Seng Chua][Chua]. Prior to joining NUS, he received a Master degree from School of Computer Science at Tsinghua University in June, 2017, working with Prof. [Juanzi Li][juanzili] and Prof. [Jie Tang][jietang]. He obtained the Bachelor degree in Beihang University (2010 - 2014). 
 
 His board research interests include knowledge base, natural language processing, and data mining. 
-To be specific, his research topics include neural question generation, text style transfer, and zero/few-shot image recognition. 
+To be specific, his research topics include **neural question generation**, text style transfer, and zero/few-shot image recognition. 
 <!-- *multi-media structure learning of food recipes*.  -->
+
+He is now joining the [UC Santa Barbara Natural Language Processing Group][UCSB] as a visiting Ph.D. student, supervised by Prof. [William Wang][William]. 
 
 [NGS]: http://www.nus.edu.sg/ngs/
 [Tsinghua]: http://www.tsinghua.edu.cn/publish/newthu/index.html
@@ -87,6 +89,8 @@ To be specific, his research topics include neural question generation, text sty
 [NExT]: http://next.comp.nus.edu.sg/
 [Min]: http://www.comp.nus.edu.sg/~kanmy/
 [WING]: http://wing.comp.nus.edu.sg/
+[UCSB]: http://nlp.cs.ucsb.edu/
+[William]: https://sites.cs.ucsb.edu/~william/
 
 <!-- News
 ======
