@@ -19,6 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "ACM MM 2020"
+  organization_url = "https://2020.acmmm.org/"
+  title = "One paper accepted by ACM MM 2020!"
+  url = "https://2020.acmmm.org/"
+  date_start = "2020-07-25"
+  date_end = ""
+  description = "Our paper [\"Multi-modal Cooking Workflow Construction for Food Recipes\"]() was accepted by ACM MM 2020 (acceptance rate: 27.8%). The full paper will be released soon. "
+
+[[item]]
   organization = "UCSB NLP Group"
   organization_url = "http://nlp.cs.ucsb.edu/"
   title = "Joining the UC Santa Barbara NLP Group!"
