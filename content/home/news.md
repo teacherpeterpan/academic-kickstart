@@ -19,6 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Fudan University"
+  organization_url = "https://www.fudan.edu.cn/en/"
+  title = "Invited talk at Fudan University"
+  url = ""
+  date_start = "2020-08-15"
+  date_end = ""
+  description = "I was invited to give a talk at the Department of Computer Science, Fudan University with the topic [\"Question Generation with Deep Reasoning\"](). "
+
+[[item]]
   organization = "ACM MM 2020"
   organization_url = "https://2020.acmmm.org/"
   title = "One paper accepted by ACM MM 2020!"
