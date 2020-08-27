@@ -5,6 +5,7 @@ title: "Multi-modal Cooking Workflow Construction for Food Recipes"
 authors: [Liangming Pan, Jingjing Chen, Jianlong Wu, Shaoteng Liu, Chong-Wah Ngo, Min-Yen Kan, Yu-Gang Jiang, Tat-Seng Chua]
 date: 2020-08-15T21:24:12-07:00
 doi: ""
+oral: "(Oral)"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-08-15T21:24:12-07:00

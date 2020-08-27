@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   url = "https://2020.acmmm.org/"
   date_start = "2020-07-25"
   date_end = ""
-  description = "Our paper [\"Multi-modal Cooking Workflow Construction for Food Recipes\"](https://arxiv.org/pdf/2008.09151.pdf) was accepted by ACM MM 2020 (acceptance rate: 27.8%). "
+  description = "Our paper [\"Multi-modal Cooking Workflow Construction for Food Recipes\"](https://arxiv.org/pdf/2008.09151.pdf) was accepted by ACM MM 2020 (acceptance rate: 27.8%) as oral presentation. "
 
 [[item]]
   organization = "UCSB NLP Group"
