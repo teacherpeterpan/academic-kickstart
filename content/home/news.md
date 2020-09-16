@@ -18,6 +18,26 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+
+[[item]]
+  organization = "EMNLP 2020"
+  organization_url = "https://2020.emnlp.org/"
+  title = "One paper accepted by EMNLP 2020!"
+  url = "https://2020.emnlp.org/"
+  date_start = "2020-09-15"
+  date_end = ""
+  description = "Our paper [\"Exploring and Evaluating Attributes, Values, and Structure for Entity Alignment\"]() was accepted by EMNLP 2020 (long paper, acceptance rate: 22.4%). The paper and codes will be released soon. "
+
+[[item]]
+  organization = "National University of Singapore"
+  organization_url = "https://www.comp.nus.edu.sg/"
+  title = "Research Achievement Reward"
+  url = ""
+  date_start = "2020-09-06"
+  date_end = ""
+  description = "I am glad to receive the **Research Achievement Reward** of 2019/2020 Semester 1 from the School of Computing, National University of Singapore. "
+
 [[item]]
   organization = "Fudan University"
   organization_url = "https://www.fudan.edu.cn/en/"
@@ -34,7 +54,7 @@ date_format = "Jan 2006"
   url = "https://2020.acmmm.org/"
   date_start = "2020-07-25"
   date_end = ""
-  description = "Our paper [\"Multi-modal Cooking Workflow Construction for Food Recipes\"](https://arxiv.org/pdf/2008.09151.pdf) was accepted by ACM MM 2020 (acceptance rate: 27.8%) as oral presentation. "
+  description = "Our paper [\"Multi-modal Cooking Workflow Construction for Food Recipes\"](https://arxiv.org/pdf/2008.09151.pdf) was accepted by ACM MM 2020 (acceptance rate: 27.8%) as **oral presentation**. "
 
 [[item]]
   organization = "UCSB NLP Group"
