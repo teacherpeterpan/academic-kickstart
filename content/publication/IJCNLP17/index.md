@@ -43,9 +43,9 @@ links:
   url: http://ijcnlp2017.org/site/page.aspx?pid=901&sid=1133&lang=en
 
 url_pdf: /files/publications/IJCNLP17_Paper.pdf
-url_code:
-url_dataset:
-url_poster:
+url_code: https://github.com/luogan1234/concept-expansion-snippet
+url_dataset: http://moocdata.cn/data/concept-extraction
+url_poster: 
 url_project:
 url_slides: /files/publications/IJCNLP17_Slides.pdf
 url_source:

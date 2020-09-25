@@ -43,7 +43,7 @@ links:
   url: http://acl2017.org/
 
 url_pdf: /files/publications/ACL17_Paper.pdf
-url_code:
+url_code: http://moocdata.cn/data/prerequisite-relation
 url_dataset:
 url_poster:
 url_project:
