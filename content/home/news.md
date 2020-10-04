@@ -18,7 +18,14 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-
+[[item]]
+  organization = "COLING 2020"
+  organization_url = "https://coling2020.org/"
+  title = "One paper accepted by COLING 2020!"
+  url = "https://coling2020.org/"
+  date_start = "2020-10-01"
+  date_end = ""
+  description = "Our paper [\"Exploring Question-Specific Rewards for Generating Deep Questions\"]() was accepted by COLING 2020 (long paper, acceptance rate: 32.9%). The paper and codes will be released soon. "
 
 [[item]]
   organization = "EMNLP 2020"
