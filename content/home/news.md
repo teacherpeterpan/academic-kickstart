@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   url = "https://2020.emnlp.org/"
   date_start = "2020-09-15"
   date_end = ""
-  description = "Our paper [\"Exploring and Evaluating Attributes, Values, and Structure for Entity Alignment\"]() was accepted by EMNLP 2020 (long paper, acceptance rate: 22.4%). The paper and codes will be released soon. "
+  description = "Our paper [\"Exploring and Evaluating Attributes, Values, and Structure for Entity Alignment\"](https://arxiv.org/pdf/2010.03249.pdf) was accepted by EMNLP 2020 (long paper, acceptance rate: 22.4%). The paper and codes will be released soon. "
 
 [[item]]
   organization = "National University of Singapore"
