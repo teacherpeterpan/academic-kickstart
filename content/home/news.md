@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   url = "https://coling2020.org/"
   date_start = "2020-10-01"
   date_end = ""
-  description = "Our paper [\"Exploring Question-Specific Rewards for Generating Deep Questions\"]() was accepted by COLING 2020 (long paper, acceptance rate: 32.9%). The paper and codes will be released soon. "
+  description = "Our paper [\"Exploring Question-Specific Rewards for Generating Deep Questions\"](https://arxiv.org/pdf/2011.01102.pdf) was accepted by COLING 2020 (long paper, acceptance rate: 32.9%). The code is available at [https://github.com/YuxiXie/RL-for-Question-Generation](https://github.com/YuxiXie/RL-for-Question-Generation)"
 
 [[item]]
   organization = "EMNLP 2020"
@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   url = "https://2020.emnlp.org/"
   date_start = "2020-09-15"
   date_end = ""
-  description = "Our paper [\"Exploring and Evaluating Attributes, Values, and Structure for Entity Alignment\"](https://arxiv.org/pdf/2010.03249.pdf) was accepted by EMNLP 2020 (long paper, acceptance rate: 22.4%). The paper and codes will be released soon. "
+  description = "Our paper [\"Exploring and Evaluating Attributes, Values, and Structure for Entity Alignment\"](https://arxiv.org/pdf/2010.03249.pdf) was accepted by EMNLP 2020 (long paper, acceptance rate: 22.4%).  "
 
 [[item]]
   organization = "National University of Singapore"
