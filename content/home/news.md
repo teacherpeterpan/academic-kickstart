@@ -19,6 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "National University of Singapore"
+  organization_url = "https://www.comp.nus.edu.sg/"
+  title = "Dean's Graduate Research Excellence Award"
+  url = ""
+  date_start = "2021-01-05"
+  date_end = ""
+  description = "I am glad to receive the **Dean's Graduate Research Excellence Award** of 2019/2020 Semester 2 from the School of Computing, National University of Singapore."
+
+[[item]]
   organization = "COLING 2020"
   organization_url = "https://coling2020.org/"
   title = "One paper accepted by COLING 2020!"
