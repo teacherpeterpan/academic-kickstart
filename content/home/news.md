@@ -18,117 +18,65 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = "National University of Singapore"
-  organization_url = "https://www.comp.nus.edu.sg/"
-  title = "Dean's Graduate Research Excellence Award"
-  url = ""
-  date_start = "2021-01-05"
-  date_end = ""
-  description = "I am glad to receive the **Dean's Graduate Research Excellence Award** of 2019/2020 Semester 2 from the School of Computing, National University of Singapore."
-
-[[item]]
-  organization = "COLING 2020"
-  organization_url = "https://coling2020.org/"
-  title = "One paper accepted by COLING 2020!"
-  url = "https://coling2020.org/"
-  date_start = "2020-10-01"
-  date_end = ""
-  description = "Our paper [\"Exploring Question-Specific Rewards for Generating Deep Questions\"](https://arxiv.org/pdf/2011.01102.pdf) was accepted by COLING 2020 (long paper, acceptance rate: 32.9%). The code is available at [https://github.com/YuxiXie/RL-for-Question-Generation](https://github.com/YuxiXie/RL-for-Question-Generation)"
-
-[[item]]
-  organization = "EMNLP 2020"
-  organization_url = "https://2020.emnlp.org/"
-  title = "One paper accepted by EMNLP 2020!"
-  url = "https://2020.emnlp.org/"
-  date_start = "2020-09-15"
-  date_end = ""
-  description = "Our paper [\"Exploring and Evaluating Attributes, Values, and Structure for Entity Alignment\"](https://arxiv.org/pdf/2010.03249.pdf) was accepted by EMNLP 2020 (long paper, acceptance rate: 22.4%).  "
-
-[[item]]
-  organization = "National University of Singapore"
-  organization_url = "https://www.comp.nus.edu.sg/"
-  title = "Research Achievement Reward"
-  url = ""
-  date_start = "2020-09-06"
-  date_end = ""
-  description = "I am glad to receive the **Research Achievement Reward** of 2019/2020 Semester 1 from the School of Computing, National University of Singapore. "
-
-[[item]]
-  organization = "Fudan University"
-  organization_url = "https://www.fudan.edu.cn/en/"
-  title = "Invited talk at Fudan University"
-  url = ""
-  date_start = "2020-08-15"
-  date_end = ""
-  description = "I was invited to give a talk at the Department of Computer Science, Fudan University with the topic [\"Question Generation with Deep Reasoning\"](). "
-
-[[item]]
-  organization = "ACM MM 2020"
-  organization_url = "https://2020.acmmm.org/"
-  title = "One paper accepted by ACM MM 2020!"
-  url = "https://2020.acmmm.org/"
-  date_start = "2020-07-25"
-  date_end = ""
-  description = "Our paper [\"Multi-modal Cooking Workflow Construction for Food Recipes\"](https://arxiv.org/pdf/2008.09151.pdf) was accepted by ACM MM 2020 (acceptance rate: 27.8%) as **oral presentation**. "
-
-[[item]]
-  organization = "UCSB NLP Group"
-  organization_url = "http://nlp.cs.ucsb.edu/"
-  title = "Joining the UC Santa Barbara NLP Group!"
-  url = "http://nlp.cs.ucsb.edu/"
-  date_start = "2020-07-20"
-  date_end = ""
-  description = "From August 2020 to July 2021, I am joining the [UC Santa Barbara Natural Language Processing Group](http://nlp.cs.ucsb.edu/) as a visiting Ph.D. student, supervised by Prof. [William Wang](https://sites.cs.ucsb.edu/~william/). "
-
-[[item]]
-  organization = "ACL 2020"
-  organization_url = "https://acl2020.org/"
-  title = "Two paper accepted by ACL 2020!"
-  url = "https://acl2020.org/"
-  # certificate_url = "http://cvpr2020.thecvf.com/"
-  date_start = "2020-04-04"
-  date_end = ""
-  description = "Two of our papers, [\"Semantic Graphs for Generating Deep Questions\"](https://arxiv.org/pdf/2004.12704.pdf) and [\"Expertise Style Transfer: A New Task Towards Better Communication between Experts and Laymenwas\"](/files/publications/ACL20_Style_Paper.pdf), were accepted by ACL 2020 (acceptance rate: 25.2%). "
-
-[[item]]
-  organization = "CVPR 2020"
-  organization_url = "http://cvpr2020.thecvf.com/"
-  title = "One paper accepted by CVPR 2020!"
-  url = "http://cvpr2020.thecvf.com/"
-  # certificate_url = "http://cvpr2020.thecvf.com/"
-  date_start = "2020-02-23"
-  date_end = ""
-  description = "Our paper [\"Hyperbolic Visual Embedding Learning for Zero-Shot Recognition\"](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Hyperbolic_Visual_Embedding_Learning_for_Zero-Shot_Recognition_CVPR_2020_paper.pdf) was accepted by CVPR 2020 (acceptance rate: 22%). "
-
-[[item]]
-  organization = "Github"
-  organization_url = "https://github.com/teacherpeterpan/Question-Generation-Paper-List"
-  title = "Paper list on neural question generation on Github."
-  url = "https://github.com/teacherpeterpan/Question-Generation-Paper-List"
-  # certificate_url = "https://github.com/teacherpeterpan/Question-Generation-Paper-List"
-  date_start = "2019-12-18"
-  date_end = ""
-  description = "We created a paper list on Github to summarize the recent research on neural question generation. [[Github link]](https://github.com/teacherpeterpan/Question-Generation-Paper-List)"
-  
-[[item]]
-  organization = "AAAI 2020"
-  organization_url = "https://aaai.org/Conferences/AAAI-20/"
-  title = "One paper accepted by AAAI 2020!"
-  url = "files/publications/AAAI20_Paper.pdf"
-  # certificate_url = "files/publications/AAAI20_Paper.pdf"
-  date_start = "2019-11-11"
-  date_end = ""
-  description = "Our paper \"Zero-shot Ingredient Recognition by Multi-Relational Graph Convolutional Network\" was accepted by AAAI 2020 (acceptance rate: 20.6%). [[paper link]](files/publications/AAAI20_Paper.pdf)"
-
-[[item]]
-  organization = "ArXiv"
-  organization_url = "https://arxiv.org/abs/1905.08949"
-  title = "Survey paper on neural question generation"
-  url = "https://arxiv.org/abs/1905.08949"
-  # certificate_url = "https://arxiv.org/abs/1905.08949"
-  date_start = "2019-05-22"
-  date_end = ""
-  description = "We have written a survey paper on recent advances in neural question generation, and posted it on ArXiv. [[paper link]](https://arxiv.org/abs/1905.08949)"
-
 +++
+
+<table class="table table-hover">
+  <tbody>
+    <tr>
+      <th scope="row" class="text-center">Feb 2021</th>
+      <td style="width: 85%;margin:auto;">An invited talk <b>"Towards generating human-like deep questions"</b> at School of Computing, National University of Singapore. </td>
+    </tr>
+    <tr>
+      <th scope="row" class="text-center">Jan 2021</th>
+      <td style="width: 85%;margin:auto;">I received the <b>Dean's Graduate Research Excellence Award</b> of 2019/2020 Semester 2 from the School of Computing, National University of Singapore.</td>
+    </tr>
+    <tr>
+      <th scope="row" class="text-center">Nov 2020</th>
+      <td style="width: 85%;margin:auto;">I will serve as a <b>Senior Program Committee (SPC)</b> Member for <a href="https://ijcai-21.org/">IJCAI 2021</a> </td>
+    </tr>
+    <tr>
+      <th scope="row" class="text-center">Oct 2020</th>
+      <td style="width: 85%;margin:auto;">One paper accepted by <b>COLING 2020</b>: <a href="https://arxiv.org/pdf/2011.01102.pdf">Exploring Question-Specific Rewards for Generating Deep Questions</a> (long paper, acceptance rate: 32.9%). <a href="https://github.com/YuxiXie/RL-for-Question-Generation">[Codes]</a></td>
+    </tr>
+    <tr>
+      <th scope="row" class="text-center">Sep 2020</th>
+      <td style="width: 85%;margin:auto;">One paper accepted by <b>EMNLP 2020</b>: <a href="https://arxiv.org/pdf/2010.03249.pdf">Exploring and Evaluating Attributes, Values, and Structure for Entity Alignment</a> (long paper, acceptance rate: 22.4%).</td>
+    </tr>
+    <tr>
+      <th scope="row" class="text-center">Sep 2020</th>
+      <td style="width: 85%;margin:auto;">I received the <b>Research Achievement Reward</b> of 2019/2020 Semester 1 from the School of Computing, National University of Singapore. </td>
+    </tr>
+    <tr>
+      <th scope="row" class="text-center">Aug 2020</th>
+      <td style="width: 85%;margin:auto;">I was invited to give a talk at the Department of Computer Science, <b>Fudan University</b> with the topic <b>"Question Generation with Deep Reasoning"</b></td>
+    </tr>
+    <tr>
+      <th scope="row" class="text-center">Jul 2020</th>
+      <td style="width: 85%;margin:auto;">One paper accepted by <b>ACM MM 2020</b>: <a href="https://arxiv.org/pdf/2008.09151.pdf">Multi-modal Cooking Workflow Construction for Food Recipes</a> (<b>oral presentation</b>, acceptance rate: 27.8%). </td>
+    </tr>
+    <tr>
+      <th scope="row" class="text-center">Jul 2020</th>
+      <td style="width: 85%;margin:auto;">From August 2020 to July 2021, I am joining the <a href="http://nlp.cs.ucsb.edu/">UC Santa Barbara Natural Language Processing Group</a> as a <b>visiting Ph.D. student</b>, supervised by Prof. <a href="https://sites.cs.ucsb.edu/~william/">William Wang</a>. </td>
+    </tr>
+    <tr>
+      <th scope="row" class="text-center">Apr 2020</th>
+      <td style="width: 85%;margin:auto;">Two papers accepted by <b>ACL 2020</b>: <a href="https://arxiv.org/pdf/2004.12704.pdf">Semantic Graphs for Generating Deep Questions</a>, and <a href="/files/publications/ACL20_Style_Paper.pdf">Expertise Style Transfer: A New Task Towards Better Communication between Experts and Laymenwas</a> (acceptance rate: 25.2%).</td>
+    </tr>
+    <tr>
+      <th scope="row" class="text-center">Feb 2020</th>
+      <td style="width: 85%;margin:auto;">Our paper accepted by <b>CVPR 2020</b>: <a href="http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Hyperbolic_Visual_Embedding_Learning_for_Zero-Shot_Recognition_CVPR_2020_paper.pdf">Hyperbolic Visual Embedding Learning for Zero-Shot Recognition</a> (acceptance rate: 22%). </td>
+    </tr>
+    <tr>
+      <th scope="row" class="text-center">Dec 2019</th>
+      <td style="width: 85%;margin:auto;">A <a href="https://github.com/teacherpeterpan/Question-Generation-Paper-List">paper list</a> on Github to summarize the recent research on neural question generation. </td>
+    </tr>
+    <tr>
+      <th scope="row" class="text-center">Nov 2019</th>
+      <td style="width: 85%;margin:auto;">Our paper accepted by <b>AAAI 2020</b>: <a href="files/publications/AAAI20_Paper.pdf">Zero-shot Ingredient Recognition by Multi-Relational Graph Convolutional Network</a> (acceptance rate: 20.6%). </td>
+    </tr>
+    <tr>
+      <th scope="row" class="text-center">May 2019</th>
+      <td style="width: 85%;margin:auto;">A survey paper on <a href="https://arxiv.org/abs/1905.08949">Recent Advances in Neural Question Generation</a>.</td>
+    </tr>
+  </tbody>
+</table>
