@@ -26,7 +26,7 @@ summary: ""
 
 tags: []
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -43,7 +43,7 @@ links:
   url: https://2021.naacl.org/
 
 url_pdf: https://arxiv.org/pdf/2010.12623.pdf
-url_code:
+url_code: https://github.com/teacherpeterpan/Unsupervised-Multi-hop-QA
 url_dataset:
 url_poster:
 url_project:

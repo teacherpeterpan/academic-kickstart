@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   <tbody>
     <tr>
       <th scope="row" class="text-center">Mar 2021</th>
-      <td style="width: 85%;margin:auto;">One paper accepted by <b>NAACL 2021</b>: <a href="https://arxiv.org/pdf/2010.12623.pdf">Unsupervised Multi-hop Question Answering by Question Generation</a> (long paper). Codes will be publicly avaliable soon. </td>
+      <td style="width: 85%;margin:auto;">One paper accepted by <b>NAACL 2021</b>: <a href="https://arxiv.org/pdf/2010.12623.pdf">Unsupervised Multi-hop Question Answering by Question Generation</a> (long paper). <a href="https://github.com/teacherpeterpan/Unsupervised-Multi-hop-QA">[Codes]</a></td>
     </tr>
     <tr>
       <th scope="row" class="text-center">Feb 2021</th>
