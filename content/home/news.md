@@ -23,6 +23,10 @@ date_format = "Jan 2006"
 <table class="table table-hover">
   <tbody>
     <tr>
+      <th scope="row" class="text-center">May 2021</th>
+      <td style="width: 85%;margin:auto;">One paper accepted by <b>ACL-IJCNLP 2021</b>: <a href="">Zero-shot Fact Verification by Claim Generation</a> (short paper). <a href="">[Codes]</a></td>
+    </tr>
+    <tr>
       <th scope="row" class="text-center">Mar 2021</th>
       <td style="width: 85%;margin:auto;">One paper accepted by <b>NAACL 2021</b>: <a href="https://arxiv.org/pdf/2010.12623.pdf">Unsupervised Multi-hop Question Answering by Question Generation</a> (long paper). <a href="https://github.com/teacherpeterpan/Unsupervised-Multi-hop-QA">[Codes]</a></td>
     </tr>
