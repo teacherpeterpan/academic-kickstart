@@ -42,8 +42,8 @@ links:
   name: ACL, 2021
   url: https://2021.aclweb.org/
 
-url_pdf:
-url_code:
+url_pdf: https://arxiv.org/pdf/2105.14682.pdf
+url_code: https://github.com/teacherpeterpan/Zero-shot-Fact-Verification
 url_dataset:
 url_poster:
 url_project:

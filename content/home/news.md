@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   <tbody>
     <tr>
       <th scope="row" class="text-center">May 2021</th>
-      <td style="width: 85%;margin:auto;">One paper accepted by <b>ACL-IJCNLP 2021</b>: <a href="">Zero-shot Fact Verification by Claim Generation</a> (short paper). <a href="">[Codes]</a></td>
+      <td style="width: 85%;margin:auto;">One paper accepted by <b>ACL-IJCNLP 2021</b>: <a href="https://arxiv.org/pdf/2105.14682.pdf">Zero-shot Fact Verification by Claim Generation</a> (short paper). <a href="https://github.com/teacherpeterpan/Zero-shot-Fact-Verification">[Codes]</a></td>
     </tr>
     <tr>
       <th scope="row" class="text-center">Mar 2021</th>
