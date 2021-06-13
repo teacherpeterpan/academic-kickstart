@@ -1,1 +1,3 @@
 hugo new --kind publication publication/<my-publication>
+
+hugo new --kind project project/<my-publication>
