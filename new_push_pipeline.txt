@@ -2,5 +2,6 @@ git add .
 git commit -m 'XXX'
 git push https://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@github.com/teacherpeterpan/academic_homepage.git/
 cd public
+git add .
 git commit -m 'XXX'
 git push https://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@github.com/teacherpeterpan/teacherpeterpan.github.io.git
