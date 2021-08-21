@@ -23,6 +23,10 @@ date_format = "Jan 2006"
 <table class="table table-hover">
   <tbody>
     <tr>
+      <th scope="row" class="text-center">Aug 2021</th>
+      <td style="width: 85%;margin:auto;">Invited talk <b>"Towards generating human-like deep questions"</b> for <a href="https://ntunlpsg.github.io/talk/liangming/">Monthly NLP Talks at NTU-NLP</a>. <a href="files/talks/[V6] Towards Generating Human-like Deep Questions.pdf">[Slides]</a> <a href="https://www.youtube.com/watch?v=CAJJJOoS-q4&t=559s">[Video]</a></td>
+    </tr>
+    <tr>
       <th scope="row" class="text-center">May 2021</th>
       <td style="width: 85%;margin:auto;">One paper accepted by <b>ACL-IJCNLP 2021</b>: <a href="https://arxiv.org/pdf/2105.14682.pdf">Zero-shot Fact Verification by Claim Generation</a> (short paper). <a href="https://github.com/teacherpeterpan/Zero-shot-Fact-Verification">[Codes]</a></td>
     </tr>
