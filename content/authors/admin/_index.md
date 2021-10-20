@@ -47,7 +47,7 @@ social:
   link: 'mailto:e0272310@u.nus.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/peterpan385
+  link: https://twitter.com/PanLiangming
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=JcjjOTUAAAAJ

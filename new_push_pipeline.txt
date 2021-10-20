@@ -1,7 +1,7 @@
 git add .
 git commit -m 'XXX'
-git push https://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@github.com/teacherpeterpan/academic_homepage.git/
+git push https://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@github.com/teacherpeterpan/academic_homepage.git/
 cd public
 git add .
 git commit -m 'XXX'
-git push https://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@github.com/teacherpeterpan/teacherpeterpan.github.io.git
+git push https://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@github.com/teacherpeterpan/teacherpeterpan.github.io.git
