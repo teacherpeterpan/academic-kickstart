@@ -23,6 +23,14 @@ date_format = "Jan 2006"
 <table class="table table-hover">
   <tbody>
     <tr>
+      <th scope="row" class="text-center">Feb 2022</th>
+      <td style="width: 85%;margin:auto;">Invited to join the Program Committee of <a href="https://suki-workshop.github.io/organization">SUKI: Structured and Unstructured Knowledge Integration (Workshop at NAACL 2022)</a></td>
+    </tr>
+    <tr>
+      <th scope="row" class="text-center">Jan 2022</th>
+      <td style="width: 85%;margin:auto;">Submitted my Ph.D. thesis <b>"Towards generating deep questions from text"</b></td>
+    </tr>
+    <tr>
       <th scope="row" class="text-center">Aug 2021</th>
       <td style="width: 85%;margin:auto;">Invited talk <b>"Towards generating human-like deep questions"</b> for <a href="https://ntunlpsg.github.io/talk/liangming/">Monthly NLP Talks at NTU-NLP</a>. <a href="files/talks/[V6] Towards Generating Human-like Deep Questions.pdf">[Slides]</a> <a href="https://www.youtube.com/watch?v=CAJJJOoS-q4&t=559s">[Video]</a></td>
     </tr>
