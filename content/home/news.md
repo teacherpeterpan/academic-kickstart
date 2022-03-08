@@ -23,6 +23,10 @@ date_format = "Jan 2006"
 <table class="table table-hover">
   <tbody>
     <tr>
+      <th scope="row" class="text-center">Mar 2022</th>
+      <td style="width: 85%;margin:auto;">Two papers accepted by <b>ACL 2022 + Findings</b>: <a href="https://openreview.net/pdf?id=FgITqNVqpVz">KQA Pro: A Dataset with Explicit Compositional Programs for Complex Question Answering over Knowledge Base</a> (main conference), and <a href="https://openreview.net/pdf?id=ONfJZSIkLli">Interpreting the Robustness of Neural NLP Models to Textual Perturbations</a> (findings).</td>
+    </tr>
+    <tr>
       <th scope="row" class="text-center">Feb 2022</th>
       <td style="width: 85%;margin:auto;">Invited to join the Program Committee of <a href="https://suki-workshop.github.io/organization">SUKI: Structured and Unstructured Knowledge Integration (Workshop at NAACL 2022)</a></td>
     </tr>
@@ -80,7 +84,7 @@ date_format = "Jan 2006"
     </tr>
     <tr>
       <th scope="row" class="text-center">Apr 2020</th>
-      <td style="width: 85%;margin:auto;">Two papers accepted by <b>ACL 2020</b>: <a href="https://arxiv.org/pdf/2004.12704.pdf">Semantic Graphs for Generating Deep Questions</a>, and <a href="/files/publications/ACL20_Style_Paper.pdf">Expertise Style Transfer: A New Task Towards Better Communication between Experts and Laymenwas</a> (acceptance rate: 25.2%).</td>
+      <td style="width: 85%;margin:auto;">Two papers accepted by <b>ACL 2020</b>: <a href="https://arxiv.org/pdf/2004.12704.pdf">Semantic Graphs for Generating Deep Questions</a>, and <a href="/files/publications/ACL20_Style_Paper.pdf">Expertise Style Transfer: A New Task Towards Better Communication between Experts and Laymen</a> (acceptance rate: 25.2%).</td>
     </tr>
     <tr>
       <th scope="row" class="text-center">Feb 2020</th>
