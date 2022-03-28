@@ -19,8 +19,8 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 +++
-# https://www.eventbrite.com/e/pie-ai-singapore-applications-of-question-generation-in-nlp-tickets-304213690337#
-# https://speakerdeck.com/wingnus/applications-of-question-generation-in-nlp
+<!-- # https://www.eventbrite.com/e/pie-ai-singapore-applications-of-question-generation-in-nlp-tickets-304213690337\#
+# https://speakerdeck.com/wingnus/applications-of-question-generation-in-nlp -->
 <table class="table table-hover">
   <tbody>
     <tr>
