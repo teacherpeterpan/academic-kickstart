@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   <tbody>
     <tr>
       <th scope="row" class="text-center">Mar 2022</th>
-      <td style="width: 85%;margin:auto;">Invited talk <b>"Applications of Question Generation in NLP"</b> for <a href="https://www.eventbrite.com/e/pie-ai-singapore-applications-of-question-generation-in-nlp-tickets-304213690337#">Pie &amp; AI: Singapore @ deeplearning.ai</a>. <a href="https://speakerdeck.com/wingnus/applications-of-question-generation-in-nlp">[Slides]</a></td>
+      <td style="width: 85%;margin:auto;">Invited talk <b>"Applications of Question Generation in NLP"</b> for <a href="https://www.eventbrite.com/e/pie-ai-singapore-applications-of-question-generation-in-nlp-tickets-304213690337#">Pie &amp; AI: Singapore, organized by deeplearning.ai</a>. <a href="https://speakerdeck.com/wingnus/applications-of-question-generation-in-nlp">[Slides]</a></td>
     </tr>
     <tr>
       <th scope="row" class="text-center">Mar 2022</th>
