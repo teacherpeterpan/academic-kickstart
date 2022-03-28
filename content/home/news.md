@@ -22,10 +22,10 @@ date_format = "Jan 2006"
 
 <table class="table table-hover">
   <tbody>
-    <tr>
+    <!-- <tr>
       <th scope="row" class="text-center">Mar 2022</th>
       <td style="width: 85%;margin:auto;">Invited talk <b>"Applications of Question Generation in NLP"</b> for <a href="https://www.eventbrite.com/e/pie-ai-singapore-applications-of-question-generation-in-nlp-tickets-304213690337#">Pie & AI: Singapore @ deeplearning.ai</a>. <a href="https://speakerdeck.com/wingnus/applications-of-question-generation-in-nlp">[Slides]</a></td>
-    </tr>
+    </tr> -->
     <tr>
       <th scope="row" class="text-center">Mar 2022</th>
       <td style="width: 85%;margin:auto;">Two papers accepted by <b>ACL 2022 + Findings</b>: <a href="https://openreview.net/pdf?id=FgITqNVqpVz">KQA Pro: A Dataset with Explicit Compositional Programs for Complex Question Answering over Knowledge Base</a> (main conference), and <a href="https://openreview.net/pdf?id=ONfJZSIkLli">Interpreting the Robustness of Neural NLP Models to Textual Perturbations</a> (findings).</td>
