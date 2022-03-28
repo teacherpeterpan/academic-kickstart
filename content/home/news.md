@@ -19,12 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 +++
-
+# https://www.eventbrite.com/e/pie-ai-singapore-applications-of-question-generation-in-nlp-tickets-304213690337#
+# https://speakerdeck.com/wingnus/applications-of-question-generation-in-nlp
 <table class="table table-hover">
   <tbody>
     <tr>
       <th scope="row" class="text-center">Mar 2022</th>
-      <td style="width: 85%;margin:auto;">Invited talk <b>"Applications of Question Generation in NLP"</b> for <a href="https://www.eventbrite.com/e/pie-ai-singapore-applications-of-question-generation-in-nlp-tickets-304213690337#">Pie \& AI: Singapore \@ deeplearning.ai</a>. <a href="https://speakerdeck.com/wingnus/applications-of-question-generation-in-nlp">[Slides]</a></td>
+      <td style="width: 85%;margin:auto;">Invited talk <b>"Applications of Question Generation in NLP"</b> for <a href="">Pie & AI: Singapore @ deeplearning.ai</a>. <a href="">[Slides]</a></td>
     </tr>
     <tr>
       <th scope="row" class="text-center">Mar 2022</th>
