@@ -24,6 +24,10 @@ date_format = "Jan 2006"
   <tbody>
     <tr>
       <th scope="row" class="text-center">April 2022</th>
+      <td style="width: 85%;margin:auto;">Talk <b>"Towards generating deep questions from text"</b> at <a href="https://scis.smu.edu.sg/">Singapore Management University (SMU)</a>. </td>
+    </tr>
+    <tr>
+      <th scope="row" class="text-center">April 2022</th>
       <td style="width: 85%;margin:auto;">One paper accepted by <b>ICMR 2022</b>: <a href="">Ingredient-enriched Recipe Generation from Cooking Videos</a>. </td>
     </tr>
     <tr>
