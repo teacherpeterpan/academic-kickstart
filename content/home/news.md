@@ -23,12 +23,16 @@ date_format = "Jan 2006"
 <table class="table table-hover">
   <tbody>
     <tr>
+      <th scope="row" class="text-center">May 2022</th>
+      <td style="width: 85%;margin:auto;">One paper accepted by <b>BEA Workshop @ NAACL 2022</b>: <a href="https://sig-edu.org/bea/2022#accepted-papers">Automatic True/False Question Generation for Educational Purpose</a>. </td>
+    </tr>
+    <tr>
       <th scope="row" class="text-center">April 2022</th>
       <td style="width: 85%;margin:auto;">Talk <b>"Towards generating deep questions from text"</b> at <a href="https://scis.smu.edu.sg/">Singapore Management University (SMU)</a>. </td>
     </tr>
     <tr>
       <th scope="row" class="text-center">April 2022</th>
-      <td style="width: 85%;margin:auto;">One paper accepted by <b>ICMR 2022</b>: <a href="">Ingredient-enriched Recipe Generation from Cooking Videos</a>. </td>
+      <td style="width: 85%;margin:auto;">One paper accepted by <b>ICMR 2022</b>: <a href="https://dl.acm.org/doi/abs/10.1145/3512527.3531388">Ingredient-enriched Recipe Generation from Cooking Videos</a>. </td>
     </tr>
     <tr>
       <th scope="row" class="text-center">Mar 2022</th>
@@ -38,10 +42,10 @@ date_format = "Jan 2006"
       <th scope="row" class="text-center">Mar 2022</th>
       <td style="width: 85%;margin:auto;">Two papers accepted by <b>ACL 2022 + Findings</b>: <a href="https://openreview.net/pdf?id=FgITqNVqpVz">KQA Pro: A Dataset with Explicit Compositional Programs for Complex Question Answering over Knowledge Base</a> (main conference), and <a href="https://openreview.net/pdf?id=ONfJZSIkLli">Interpreting the Robustness of Neural NLP Models to Textual Perturbations</a> (findings).</td>
     </tr>
-    <tr>
+    <!-- <tr>
       <th scope="row" class="text-center">Feb 2022</th>
       <td style="width: 85%;margin:auto;">Invited to join the Program Committee of <a href="https://suki-workshop.github.io/organization">SUKI: Structured and Unstructured Knowledge Integration (Workshop at NAACL 2022)</a></td>
-    </tr>
+    </tr> -->
     <tr>
       <th scope="row" class="text-center">Jan 2022</th>
       <td style="width: 85%;margin:auto;">Submitted my Ph.D. thesis <b>"Towards generating deep questions from text"</b></td>
