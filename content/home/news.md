@@ -23,6 +23,10 @@ date_format = "Jan 2006"
 <table class="table table-hover">
   <tbody>
     <tr>
+      <th scope="row" class="text-center">Dec 2022</th>
+      <td style="width: 85%;margin:auto;">Starting from Dec 2022, I am thrilled to join the <a href="http://nlp.cs.ucsb.edu/index.html">UC Santa Barbara Natural Language Processing Group</a> as a <b>Postdoctoral Scholar</b>, working with Prof. <a href="https://sites.cs.ucsb.edu/~william/">William Yang Wang</a>. </td>
+    </tr>
+    <tr>
       <th scope="row" class="text-center">May 2022</th>
       <td style="width: 85%;margin:auto;">One paper accepted by <b>BEA Workshop @ NAACL 2022</b>: <a href="https://sig-edu.org/bea/2022#accepted-papers">Automatic True/False Question Generation for Educational Purpose</a>. </td>
     </tr>

@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Student
+role: Postdoctoral Scholar
 
 # Organizations/Affiliations
 organizations:
-- name: National University of Singapore
+- name: University of California, Santa Barbara (UCSB)
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,13 +29,13 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: National University of Singapore
-    year: 2018
+    year: 2018 — 2022
   - course: MEng in Computer Science
     institution: Tsinghua University
-    year: 2014
+    year: 2014 — 2017
   - course: BSc in Software Engineering
     institution: Beihang University
-    year: 2010
+    year: 2010 — 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,10 +70,10 @@ user_groups:
 - Visitors
 ---
 
-Liangming Pan (潘亮铭) is a 4th-year Computer Science Ph.D. student at the National University of Singapore, jointly advised by Prof. [Min-Yen Kan][Min] and Prof. [Tat-Seng Chua][Chua]. Before joining NUS, he received Master's degree from the School of Computer Science at Tsinghua University in June 2017, working with Prof. [Juanzi Li][juanzili] and Prof. [Jie Tang][jietang]. He obtained his Bachelor's degree from Beihang University (2010 - 2014). He joined the [UC Santa Barbara Natural Language Processing Group][UCSB] as a visiting Ph.D. student from July 2020 to May 2021, supervised by Prof. [William Wang][William]. 
+Liangming Pan (潘亮铭) is a **Postdoctoral Scholar** at the [Natural Language Processing Group][UCSB], [University of California, Santa Barbara (UCSB)][UCSBSchool], working with Prof. [William Yang Wang][William]. He obtained his Ph.D. from the [National University of Singapore][NUS] in Jan 2022, jointly advised by Prof. [Min-Yen Kan][Min] and Prof. [Tat-Seng Chua][Chua]. Before joining NUS, he received Master's degree from the School of Computer Science at Tsinghua University in June 2017, working with Prof. [Juanzi Li][juanzili] and Prof. [Jie Tang][jietang]. He obtained his Bachelor's degree from Beihang University (2010 - 2014). He was a visiting Ph.D. student from 2020 to 2021, supervised by Prof. [William Yang Wang][William]. 
 
 His broad research interests include knowledge bases, natural language processing, and data mining. 
-To be specific, his research topics include **neural question generation**, quesiton answering, and text style transfer.  
+To be specific, his research topics include **Question Answering**, **Question Generation**, and **Automated Fact Checking**. 
 <!-- *multi-media structure learning of food recipes*.  -->
 
 [NGS]: http://www.nus.edu.sg/ngs/
@@ -89,6 +89,7 @@ To be specific, his research topics include **neural question generation**, ques
 [WING]: http://wing.comp.nus.edu.sg/
 [UCSB]: http://nlp.cs.ucsb.edu/
 [William]: https://sites.cs.ucsb.edu/~william/
+[UCSBSchool]: https://www.ucsb.edu/
 
 <!-- News
 ======
