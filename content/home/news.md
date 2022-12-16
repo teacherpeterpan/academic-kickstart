@@ -27,15 +27,23 @@ date_format = "Jan 2006"
       <td style="width: 85%;margin:auto;">Starting from Dec 2022, I am thrilled to join the <a href="http://nlp.cs.ucsb.edu/index.html">UC Santa Barbara Natural Language Processing Group</a> as a <b>Postdoctoral Scholar</b>, working with Prof. <a href="https://sites.cs.ucsb.edu/~william/">William Yang Wang</a>. </td>
     </tr>
     <tr>
+      <th scope="row" class="text-center">Sep 2022</th>
+      <td style="width: 85%;margin:auto;">From September to December, I joined <a href="https://mbzuai.ac.ae/">Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)</a> as a short-term <b>Research Fellow</b>, working with Prof. <a href="https://scholar.google.com/citations?user=DfXsKZ4AAAAJ&hl=en">Preslav Nakov</a>. </td>
+    </tr>
+    <tr>
+      <th scope="row" class="text-center">Aug 2022</th>
+      <td style="width: 85%;margin:auto;">Two papers accepted by <b>COLING 2022</b>: <a href="https://arxiv.org/abs/2209.06652">CoHS-CQG: Context and History Selection for Conversational Question Generation</a>, and <a href="https://aclanthology.org/2022.coling-1.518/">KHANQ: A Dataset for Generating Deep Questions in Education</a>.</td>
+    </tr>
+    <tr>
       <th scope="row" class="text-center">May 2022</th>
       <td style="width: 85%;margin:auto;">One paper accepted by <b>BEA Workshop @ NAACL 2022</b>: <a href="https://sig-edu.org/bea/2022#accepted-papers">Automatic True/False Question Generation for Educational Purpose</a>. </td>
     </tr>
     <tr>
-      <th scope="row" class="text-center">April 2022</th>
+      <th scope="row" class="text-center">Apr 2022</th>
       <td style="width: 85%;margin:auto;">Talk <b>"Towards generating deep questions from text"</b> at <a href="https://scis.smu.edu.sg/">Singapore Management University (SMU)</a>. </td>
     </tr>
     <tr>
-      <th scope="row" class="text-center">April 2022</th>
+      <th scope="row" class="text-center">Apr 2022</th>
       <td style="width: 85%;margin:auto;">One paper accepted by <b>ICMR 2022</b>: <a href="https://dl.acm.org/doi/abs/10.1145/3512527.3531388">Ingredient-enriched Recipe Generation from Cooking Videos</a>. </td>
     </tr>
     <tr>
@@ -44,7 +52,7 @@ date_format = "Jan 2006"
     </tr>
     <tr>
       <th scope="row" class="text-center">Mar 2022</th>
-      <td style="width: 85%;margin:auto;">Two papers accepted by <b>ACL 2022 + Findings</b>: <a href="https://openreview.net/pdf?id=FgITqNVqpVz">KQA Pro: A Dataset with Explicit Compositional Programs for Complex Question Answering over Knowledge Base</a> (main conference), and <a href="https://openreview.net/pdf?id=ONfJZSIkLli">Interpreting the Robustness of Neural NLP Models to Textual Perturbations</a> (findings).</td>
+      <td style="width: 85%;margin:auto;">Two papers accepted by <b>ACL 2022 + Findings</b>: <a href="https://aclanthology.org/2022.acl-long.422/">KQA Pro: A Dataset with Explicit Compositional Programs for Complex Question Answering over Knowledge Base</a> (main conference), and <a href="https://arxiv.org/abs/2110.07159">Interpreting the Robustness of Neural NLP Models to Textual Perturbations</a> (findings).</td>
     </tr>
     <!-- <tr>
       <th scope="row" class="text-center">Feb 2022</th>
