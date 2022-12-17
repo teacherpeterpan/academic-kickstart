@@ -21,9 +21,10 @@ organizations:
 bio: My research interests include natural language generation, knowlege graph and multi-media computing.
 
 interests:
-- Text Generation
+- Question Answering
+- Question Generation
+- Fact Checking
 - Knowledge Graph
-- Multi-media Learning
 
 education:
   courses:

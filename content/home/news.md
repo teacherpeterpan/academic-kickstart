@@ -35,6 +35,10 @@ date_format = "Jan 2006"
       <td style="width: 85%;margin:auto;">Two papers accepted by <b>COLING 2022</b>: <a href="https://arxiv.org/abs/2209.06652">CoHS-CQG: Context and History Selection for Conversational Question Generation</a>, and <a href="https://aclanthology.org/2022.coling-1.518/">KHANQ: A Dataset for Generating Deep Questions in Education</a>.</td>
     </tr>
     <tr>
+      <th scope="row" class="text-center">Jun 2022</th>
+      <td style="width: 85%;margin:auto;">I am thrilled to announce that I have received my Ph.D. degree! </td>
+    </tr>
+    <tr>
       <th scope="row" class="text-center">May 2022</th>
       <td style="width: 85%;margin:auto;">One paper accepted by <b>BEA Workshop @ NAACL 2022</b>: <a href="https://sig-edu.org/bea/2022#accepted-papers">Automatic True/False Question Generation for Educational Purpose</a>. </td>
     </tr>
