@@ -24,6 +24,10 @@ date_format = "Jan 2006"
   <tbody>
     <tr>
       <th scope="row" class="text-center">Dec 2022</th>
+      <td style="width: 85%;margin:auto;">I will serve as an <b>Area Chair</b> for the Question Answering track of <a href="https://2023.aclweb.org/">ACL 2023</a>.</td>
+    </tr>
+    <tr>
+      <th scope="row" class="text-center">Dec 2022</th>
       <td style="width: 85%;margin:auto;">Starting from Dec 2022, I am thrilled to join the <a href="http://nlp.cs.ucsb.edu/index.html">UC Santa Barbara Natural Language Processing Group</a> as a <b>Postdoctoral Scholar</b>, working with Prof. <a href="https://sites.cs.ucsb.edu/~william/">William Yang Wang</a>. </td>
     </tr>
     <tr>
