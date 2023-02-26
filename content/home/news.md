@@ -23,6 +23,10 @@ date_format = "Jan 2006"
 <table class="table table-hover">
   <tbody>
     <tr>
+      <th scope="row" class="text-center">Feb 2023</th>
+      <td style="width: 85%;margin:auto;">Our paper <a href="https://arxiv.org/abs/2302.10143">Hashtag-Guided Low-Resource Tweet Classification</a> was accepted by <b>WWW 2023</b>.</td>
+    </tr>
+    <tr>
       <th scope="row" class="text-center">Dec 2022</th>
       <td style="width: 85%;margin:auto;">I will serve as an <b>Area Chair</b> for the Question Answering track of <a href="https://2023.aclweb.org/">ACL 2023</a>.</td>
     </tr>
