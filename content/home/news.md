@@ -23,6 +23,10 @@ date_format = "Jan 2006"
 <table class="table table-hover">
   <tbody>
     <tr>
+      <th scope="row" class="text-center">May 2023</th>
+      <td style="width: 85%;margin:auto;">Our paper <a href="">Fact-Checking Complex Claims with Program-Guided Reasoning</a> was accepted by the main conference of <b>ACL 2023</b>.</td>
+    </tr>
+    <tr>
       <th scope="row" class="text-center">Feb 2023</th>
       <td style="width: 85%;margin:auto;">Our paper <a href="https://arxiv.org/abs/2302.10143">Hashtag-Guided Low-Resource Tweet Classification</a> was accepted by <b>WWW 2023</b>.</td>
     </tr>
