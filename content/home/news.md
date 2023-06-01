@@ -24,7 +24,11 @@ date_format = "Jan 2006"
   <tbody>
     <tr>
       <th scope="row" class="text-center">May 2023</th>
-      <td style="width: 85%;margin:auto;">Our paper <a href="">Fact-Checking Complex Claims with Program-Guided Reasoning</a> was accepted by the main conference of <b>ACL 2023</b>.</td>
+      <td style="width: 85%;margin:auto;">New Preprint! <a href="https://arxiv.org/abs/2305.12295">Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning</a>.</td>
+    </tr>
+    <tr>
+      <th scope="row" class="text-center">May 2023</th>
+      <td style="width: 85%;margin:auto;">Our paper <a href="https://arxiv.org/abs/2305.12744">Fact-Checking Complex Claims with Program-Guided Reasoning</a> was accepted by the main conference of <b>ACL 2023</b>.</td>
     </tr>
     <tr>
       <th scope="row" class="text-center">Feb 2023</th>
