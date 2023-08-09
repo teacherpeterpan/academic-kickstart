@@ -19,9 +19,22 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 +++
+<table class="table table-hover">
+  <tbody>
+      <tr>
+        <td style="width: 85%;margin:auto;">
+        <font color="red"><b>PS:</b> I am looking for highly motivated Ph.D./master/undergraduate students to collaborate on various interesting research topics, including <b>logical reasoning, fact-checking, question-answering, and other topics related to large language models</b>. If you have an interest, feel free to send me an email at <a href="liangmingpan@ucsb.edu">liangmingpan@ucsb.edu</a></font>
+        </td>
+    </tr>
+  </tbody>
+</table>
 
 <table class="table table-hover">
   <tbody>
+    <tr>
+      <th scope="row" class="text-center">Aug 2023</th>
+      <td style="width: 85%;margin:auto;">New Survey Paper! <a href="https://arxiv.org/abs/2308.03188">Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies</a>. We also create a <a href="https://github.com/teacherpeterpan/self-correction-llm-papers">paper list</a>. </td>
+    </tr>
     <tr>
       <th scope="row" class="text-center">May 2023</th>
       <td style="width: 85%;margin:auto;">New Preprint! <a href="https://arxiv.org/abs/2305.12295">Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning</a>.</td>
