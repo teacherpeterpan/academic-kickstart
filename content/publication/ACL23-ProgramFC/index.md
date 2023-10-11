@@ -3,7 +3,7 @@
 
 title: "Fact-Checking Complex Claims with Program-Guided Reasoning"
 authors: [Liangming Pan, Xiaobao Wu, Xinyuan Lu, Anh Tuan Luu, William Yang Wang, Min-Yen Kan, Preslav Nakov]
-date: 2023-05-31T17:35:01-07:00
+date: 2023-10-03T05:35:01-07:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
