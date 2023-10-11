@@ -1,32 +1,32 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies"
-authors: [Liangming Pan, Michael Saxon, Wenda Xu, Deepak Nathani, Xinyi Wang, William Yang Wang]
-date: 2023-10-08T20:57:15-07:00
+title: "MAF: Multi-Aspect Feedback for Improving Reasoning in Large Language Models"
+authors: [Deepak Nathani, David Wang, Liangming Pan, William Yang Wang]
+date: 2023-10-05T08:46:33-07:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-10-08T20:57:15-07:00
+publishDate: 2023-10-05T08:46:33-07:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ArXiv preprint"
+publication: "EMNLP"
 publication_short: ""
 
-abstract: "Large language models (LLMs) have demonstrated remarkable performance across a wide array of NLP tasks. However, their efficacy is undermined by undesired and inconsistent behaviors, including hallucination, unfaithful reasoning, and toxic content. A promising approach to rectify these flaws is self-correction, where the LLM itself is prompted or guided to fix problems in its own output. Techniques leveraging automated feedback -- either produced by the LLM itself or some external system -- are of particular interest as they are a promising way to make LLM-based solutions more practical and deployable with minimal human feedback. This paper presents a comprehensive review of this emerging class of techniques. We analyze and taxonomize a wide array of recent work utilizing these strategies, including training-time, generation-time, and post-hoc correction. We also summarize the major applications of this strategy and conclude by discussing future directions and challenges."
+abstract: "Language Models (LMs) have shown impressive performance in various natural language tasks. However, when it comes to natural language reasoning, LMs still face challenges such as hallucination, generating incorrect intermediate reasoning steps, and making mathematical errors. Recent research has focused on enhancing LMs through self-improvement using feedback. Nevertheless, existing approaches relying on a single generic feedback source fail to address the diverse error types found in LM-generated reasoning chains. In this work, we propose Multi-Aspect Feedback, an iterative refinement framework that integrates multiple feedback modules, including frozen LMs and external tools, each focusing on a specific error category. Our experimental results demonstrate the efficacy of our approach to addressing several errors in the LM-generated reasoning chain and thus improving the overall performance of an LM in several reasoning tasks. We see an improvement of up to 20% in Mathematical Reasoning and up to 18% in Logical Entailment."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 tags: []
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -36,8 +36,14 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/abs/2308.03188
-url_code: https://github.com/teacherpeterpan/self-correction-llm-papers
+links:
+- icon: map-marker-alt
+  icon_pack: fas
+  name: EMNLP, 2023
+  url: https://2023.emnlp.org/
+
+url_pdf: https://openreview.net/pdf?id=bNeDLx5O6w
+url_code:
 url_dataset:
 url_poster:
 url_project:

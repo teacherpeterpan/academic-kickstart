@@ -22,8 +22,11 @@ date_format = "Jan 2006"
 <table class="table table-hover">
   <tbody>
       <tr>
-        <td style="width: 85%;margin:auto;">
+        <!-- <td style="width: 85%;margin:auto;">
         <font color="red"><b>PS:</b> I am looking for highly motivated Ph.D./master/undergraduate students to collaborate on various interesting research topics, including <b>logical reasoning, fact-checking, question-answering, and other topics related to large language models</b>. If you have an interest, feel free to send me an email at <a href="liangmingpan@ucsb.edu">liangmingpan@ucsb.edu</a></font>
+        </td> -->
+        <td style="width: 85%;margin:auto;">
+        <font color="red"><b>Announcement:</b> I am on the academic job market for 2024 Fall, with a research focus on <b>factuality, reasoning, and safety of large language models</b>. Open to opportunities worldwide. Feel free to send me an email at <a href="liangmingpan@ucsb.edu">liangmingpan@ucsb.edu</a> if your department has open positions. Thanks!</font>
         </td>
     </tr>
   </tbody>
@@ -31,6 +34,10 @@ date_format = "Jan 2006"
 
 <table class="table table-hover">
   <tbody>
+    <tr>
+      <th scope="row" class="text-center">Oct 2023</th>
+      <td style="width: 85%;margin:auto;">I have 8 papers accepted by <a href="https://2023.emnlp.org/">EMNLP 2023</a> (4 Main Conference, 3 Findings, 1 Demo). Topics involves logical reasoning, safety, and evaluation of LLMs. </td>
+    </tr>
     <tr>
       <th scope="row" class="text-center">Aug 2023</th>
       <td style="width: 85%;margin:auto;">New Survey Paper! <a href="https://arxiv.org/abs/2308.03188">Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies</a>. We also create a <a href="https://github.com/teacherpeterpan/self-correction-llm-papers">paper list</a>. </td>

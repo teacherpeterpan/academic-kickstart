@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning"
-authors: [Liangming Pan, Alon Albalak, Xinyi Wang, William Yang Wang]
-date: 2023-10-11T18:44:51-07:00
+title: "On the Risk of Misinformation Pollution with Large Language Models"
+authors: [Yikang Pan*, Liangming Pan*, Wenhu Chen, Preslav Nakov, Min-Yen Kan, William Yang Wang (*equal contribution)]
+date: 2023-10-10T10:46:15-07:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-05-31T18:44:51-07:00
+publishDate: 2023-10-10T10:46:15-07:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Findings of EMNLP"
 publication_short: ""
 
-abstract: "Large Language Models (LLMs) have shown human-like reasoning abilities but still struggle with complex logical problems. This paper introduces a novel framework, Logic-LM, which integrates LLMs with symbolic reasoning to improve logical problem-solving. Our method first utilizes LLMs to translate a natural language problem into a symbolic formulation. Afterward, a deterministic symbolic solver performs inference on the formulated problem. We also introduce a self-refinement stage, which utilizes the symbolic solver's error messages to revise symbolic formalizations. We demonstrate Logic-LM's effectiveness on four logical reasoning datasets: ProofWriter, PrOntoQA, FOLIO, and LogicalDeduction. Our results show significant improvement compared to LLMs alone, with an average performance boost of 62.6% over standard prompting and 23.5% over chain-of-thought prompting. Our findings suggest that Logic-LM, by combining LLMs with symbolic logic, offers a promising avenue for faithful logical reasoning."
+abstract: "In this paper, we comprehensively investigate the potential misuse of modern Large Language Models (LLMs) for generating credible-sounding misinformation and its subsequent impact on information-intensive applications, particularly Open-Domain Question Answering (ODQA) systems. We establish a threat model and simulate potential misuse scenarios, both unintentional and intentional, to assess the extent to which LLMs can be utilized to produce misinformation. Our study reveals that LLMs can act as effective misinformation generators, leading to a significant degradation in the performance of ODQA systems. To mitigate the harm caused by LLM-generated misinformation, we explore three defense strategies: prompting, misinformation detection, and majority voting. While initial results show promising trends for these defensive strategies, much more work needs to be done to address the challenge of misinformation pollution. Our work highlights the need for further research and interdisciplinary collaboration to address LLM-generated misinformation and to promote responsible use of LLMs."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -42,8 +42,8 @@ links:
   name: EMNLP, 2023
   url: https://2023.emnlp.org/
 
-url_pdf: https://arxiv.org/abs/2305.12295
-url_code: https://github.com/teacherpeterpan/logic-llm
+url_pdf: https://arxiv.org/abs/2305.13661
+url_code: https://github.com/MexicanLemonade/LLM-Misinfo-QA
 url_dataset:
 url_poster:
 url_project:

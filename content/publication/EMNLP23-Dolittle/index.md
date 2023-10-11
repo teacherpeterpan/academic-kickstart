@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning"
-authors: [Liangming Pan, Alon Albalak, Xinyi Wang, William Yang Wang]
-date: 2023-10-11T18:44:51-07:00
+title: "Doolittle: Benchmarks and Corpora for Academic Writing Formalization"
+authors: [Shizhe Diao, Yongyu Lei, Liangming Pan, Tianqing Fang, Wangchunshu Zhou, Sedrick Scott Keh, Min-Yen Kan, Tong Zhang]
+date: 2023-10-04T10:46:53-07:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-05-31T18:44:51-07:00
+publishDate: 2023-10-04T10:46:53-07:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,17 +16,17 @@ publishDate: 2023-05-31T18:44:51-07:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Findings of EMNLP"
+publication: "EMNLP"
 publication_short: ""
 
-abstract: "Large Language Models (LLMs) have shown human-like reasoning abilities but still struggle with complex logical problems. This paper introduces a novel framework, Logic-LM, which integrates LLMs with symbolic reasoning to improve logical problem-solving. Our method first utilizes LLMs to translate a natural language problem into a symbolic formulation. Afterward, a deterministic symbolic solver performs inference on the formulated problem. We also introduce a self-refinement stage, which utilizes the symbolic solver's error messages to revise symbolic formalizations. We demonstrate Logic-LM's effectiveness on four logical reasoning datasets: ProofWriter, PrOntoQA, FOLIO, and LogicalDeduction. Our results show significant improvement compared to LLMs alone, with an average performance boost of 62.6% over standard prompting and 23.5% over chain-of-thought prompting. Our findings suggest that Logic-LM, by combining LLMs with symbolic logic, offers a promising avenue for faithful logical reasoning."
+abstract: "Improving the quality of academic writing is a meaningful but challenging task. Conventional methods of language refinement focus on narrow, specific linguistic features within isolated sentences, such as grammatical errors and improper word use. We propose a more general task, Academic Writing Formalization (AWF), to improve the overall quality of formal academic writing at the paragraph level. We formulate this language refinement task as a formal text style transfer task which transfers informal-academic text to formal-academic and contribute a large-scale non-parallel dataset, Doolittle, for this purpose. Concurrently, we apply a method named metric-oriented reinforcement learning (MORL) to two large language models (LLM) where we incorporate different levels of automatic feedback into the training process. Our experiments reveal that existing text transfer models and grammatical error correction models address certain aspects of AWF but still have a significant performance gap compared to human performance. Meanwhile, language models fine-tuned with our MORL method exhibit considerably improved performance, rivaling the latest chatbot ChatGPT, but still have a non-negligible gap compared to the ground truth formal-academic texts in Doolittle."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 tags: []
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -42,8 +42,8 @@ links:
   name: EMNLP, 2023
   url: https://2023.emnlp.org/
 
-url_pdf: https://arxiv.org/abs/2305.12295
-url_code: https://github.com/teacherpeterpan/logic-llm
+url_pdf: https://openreview.net/attachment?id=B3rTZovgaA&name=pdf
+url_code:
 url_dataset:
 url_poster:
 url_project:

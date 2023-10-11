@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:e0272310@u.nus.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:liangmingpan@ucsb.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/PanLiangming

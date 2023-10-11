@@ -1,32 +1,32 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies"
-authors: [Liangming Pan, Michael Saxon, Wenda Xu, Deepak Nathani, Xinyi Wang, William Yang Wang]
-date: 2023-10-08T20:57:15-07:00
+title: "QACHECK: A Demonstration System for Question-Guided Multi-Hop Fact-Checking"
+authors: [Liangming Pan, Xinyuan Lu, Min-Yen Kan, Preslav Nakov]
+date: 2023-10-07T10:47:54-07:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-10-08T20:57:15-07:00
+publishDate: 2023-10-07T10:47:54-07:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ArXiv preprint"
+publication: "EMNLP Demo"
 publication_short: ""
 
-abstract: "Large language models (LLMs) have demonstrated remarkable performance across a wide array of NLP tasks. However, their efficacy is undermined by undesired and inconsistent behaviors, including hallucination, unfaithful reasoning, and toxic content. A promising approach to rectify these flaws is self-correction, where the LLM itself is prompted or guided to fix problems in its own output. Techniques leveraging automated feedback -- either produced by the LLM itself or some external system -- are of particular interest as they are a promising way to make LLM-based solutions more practical and deployable with minimal human feedback. This paper presents a comprehensive review of this emerging class of techniques. We analyze and taxonomize a wide array of recent work utilizing these strategies, including training-time, generation-time, and post-hoc correction. We also summarize the major applications of this strategy and conclude by discussing future directions and challenges."
+abstract: "Fact-checking real-world claims often requires complex, multi-step reasoning due to the absence of direct evidence to support or refute them. However, existing fact-checking systems often lack transparency in their decision-making, making it challenging for users to comprehend their reasoning process. To address this, we propose the Question-guided Multi-hop Fact-Checking (QACHECK) system, which guides the model’s reasoning process by asking a series of questions critical for verifying a claim. QACHECK has five key modules: a claim verifier, a question generator, a question-answering module, a QA validator, and a reasoner. Users can input a claim into QACHECK, which then predicts its veracity and provides a comprehensive report detailing its reasoning process, guided by a sequence of (question, answer) pairs. QACHECK also provides the source of evidence supporting each question, fostering a transparent, explainable, and user-friendly fact-checking process."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 tags: []
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -36,8 +36,14 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/abs/2308.03188
-url_code: https://github.com/teacherpeterpan/self-correction-llm-papers
+links:
+- icon: map-marker-alt
+  icon_pack: fas
+  name: EMNLP, 2023
+  url: https://2023.emnlp.org/
+
+url_pdf:
+url_code: https://github.com/XinyuanLu00/QACheck
 url_dataset:
 url_poster:
 url_project:

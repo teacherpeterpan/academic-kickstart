@@ -1,32 +1,32 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies"
-authors: [Liangming Pan, Michael Saxon, Wenda Xu, Deepak Nathani, Xinyi Wang, William Yang Wang]
-date: 2023-10-08T20:57:15-07:00
+title: "SCITAB: A Challenging Benchmark for Compositional Reasoning and Claim Verification on Scientific Tables"
+authors: [Xinyuan Lu*, Liangming Pan*, Qian Liu, Preslav Nakov, Min-Yen Kan (*equal contribution)]
+date: 2023-10-09T09:46:28-07:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-10-08T20:57:15-07:00
+publishDate: 2023-10-09T09:46:28-07:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ArXiv preprint"
+publication: "EMNLP"
 publication_short: ""
 
-abstract: "Large language models (LLMs) have demonstrated remarkable performance across a wide array of NLP tasks. However, their efficacy is undermined by undesired and inconsistent behaviors, including hallucination, unfaithful reasoning, and toxic content. A promising approach to rectify these flaws is self-correction, where the LLM itself is prompted or guided to fix problems in its own output. Techniques leveraging automated feedback -- either produced by the LLM itself or some external system -- are of particular interest as they are a promising way to make LLM-based solutions more practical and deployable with minimal human feedback. This paper presents a comprehensive review of this emerging class of techniques. We analyze and taxonomize a wide array of recent work utilizing these strategies, including training-time, generation-time, and post-hoc correction. We also summarize the major applications of this strategy and conclude by discussing future directions and challenges."
+abstract: "Scientific fact-checking is crucial for ensuring the accuracy, reliability, and trustworthiness of scientific claims. However, existing benchmarks are limited in terms of their claim diversity, reliance on text-based evidence, and oversimplification of scientific reasoning. To address these gaps, we introduce SCITAB, a novel dataset comprising 1,225 challenging scientific claims requiring compositional reasoning with scientific tables. The claims in SCITAB are derived from the actual scientific statements, and the evidence is presented as tables, closely mirroring real-world fact-checking scenarios. We establish benchmarks on SCITAB using state-of-the-art models, revealing its inherent difficulty and highlighting limitations in existing prompting methods. Our error analysis identifies unique challenges, including ambiguous expressions and irrelevant claims, suggesting future research directions."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 tags: []
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -36,9 +36,15 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/abs/2308.03188
-url_code: https://github.com/teacherpeterpan/self-correction-llm-papers
-url_dataset:
+links:
+- icon: map-marker-alt
+  icon_pack: fas
+  name: EMNLP, 2023
+  url: https://2023.emnlp.org/
+
+url_pdf: https://arxiv.org/abs/2305.13186
+url_code: 
+url_dataset: https://github.com/XinyuanLu00/SciTab
 url_poster:
 url_project:
 url_slides:

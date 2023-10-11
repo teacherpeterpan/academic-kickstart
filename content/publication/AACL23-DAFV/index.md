@@ -1,32 +1,32 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies"
-authors: [Liangming Pan, Michael Saxon, Wenda Xu, Deepak Nathani, Xinyi Wang, William Yang Wang]
-date: 2023-10-08T20:57:15-07:00
+title: "Investigating Zero- and Few-shot Generalization in Fact Verification"
+authors: [Liangming Pan, Yunxiang Zhang, Min-Yen Kan]
+date: 2023-10-01T10:47:29-07:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-10-08T20:57:15-07:00
+publishDate: 2023-10-01T10:47:29-07:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ArXiv preprint"
+publication: "AACL-IJCNLP"
 publication_short: ""
 
-abstract: "Large language models (LLMs) have demonstrated remarkable performance across a wide array of NLP tasks. However, their efficacy is undermined by undesired and inconsistent behaviors, including hallucination, unfaithful reasoning, and toxic content. A promising approach to rectify these flaws is self-correction, where the LLM itself is prompted or guided to fix problems in its own output. Techniques leveraging automated feedback -- either produced by the LLM itself or some external system -- are of particular interest as they are a promising way to make LLM-based solutions more practical and deployable with minimal human feedback. This paper presents a comprehensive review of this emerging class of techniques. We analyze and taxonomize a wide array of recent work utilizing these strategies, including training-time, generation-time, and post-hoc correction. We also summarize the major applications of this strategy and conclude by discussing future directions and challenges."
+abstract: "In this paper, we explore zero- and few-shot generalization for fact verification (FV), which aims to generalize the FV model trained on well-resourced domains (e.g., Wikipedia) to low-resourced domains that lack human annotations. To this end, we first construct a benchmark dataset collection which contains 11 FV datasets representing 6 domains. We conduct an empirical analysis of generalization across these FV datasets, finding that current models generalize poorly. Our analysis reveals that several factors affect generalization, including dataset size, length of evidence, and the type of claims. Finally, we show that two directions of work improve generalization: 1) incorporating domain knowledge via pretraining on specialized domains, and 2) automatically generating training data via claim generation."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 tags: []
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -36,8 +36,14 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/abs/2308.03188
-url_code: https://github.com/teacherpeterpan/self-correction-llm-papers
+links:
+- icon: map-marker-alt
+  icon_pack: fas
+  name: AACL-IJCNLP, 2023
+  url: http://www.ijcnlp-aacl2023.org/
+
+url_pdf: https://arxiv.org/abs/2309.09444
+url_code: https://github.com/teacherpeterpan/fact-checking-generalization
 url_dataset:
 url_poster:
 url_project:
