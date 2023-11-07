@@ -35,6 +35,10 @@ date_format = "Jan 2006"
 <table class="table table-hover">
   <tbody>
     <tr>
+      <th scope="row" class="text-center">Nov 2023</th>
+      <td style="width: 85%;margin:auto;">Our paper <a href="https://arxiv.org/abs/2110.07803">Attacking Open-domain Question Answering by Injecting Misinformation</a> received the <b>Area Chair Award (Question Answering)</b> at <a href="http://www.ijcnlp-aacl2023.org/">IJCNLP-AACL 2023</a>. </td>
+    </tr>
+    <tr>
       <th scope="row" class="text-center">Oct 2023</th>
       <td style="width: 85%;margin:auto;">I have 8 papers accepted by <a href="https://2023.emnlp.org/">EMNLP 2023</a> (4 Main Conference, 3 Findings, 1 Demo). Topics involves logical reasoning, safety, and evaluation of LLMs. </td>
     </tr>
