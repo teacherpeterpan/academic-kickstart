@@ -35,6 +35,10 @@ date_format = "Jan 2006"
 <table class="table table-hover">
   <tbody>
     <tr>
+      <th scope="row" class="text-center">Dec 2023</th>
+      <td style="width: 85%;margin:auto;">Invited talk <b>"Combating Misinformation in the age of LLMs"</b> at <a href="https://x.com/nuscticnus/status/1732604461888291066?s=20">NUS Centre for Trusted Internet and Community</a>. <a href="https://speakerdeck.com/teacherpeterpan/combating-misinformation-in-the-age-of-llms">[Slides]</a></td>
+    </tr>
+    <tr>
       <th scope="row" class="text-center">Nov 2023</th>
       <td style="width: 85%;margin:auto;">Our paper <a href="https://arxiv.org/abs/2110.07803">Attacking Open-domain Question Answering by Injecting Misinformation</a> received the <b>Area Chair Award (Question Answering)</b> at <a href="http://www.ijcnlp-aacl2023.org/">IJCNLP-AACL 2023</a>. </td>
     </tr>

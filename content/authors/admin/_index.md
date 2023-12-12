@@ -73,8 +73,8 @@ user_groups:
 
 Liangming Pan (潘亮铭) is a **Postdoctoral Scholar** at the [Natural Language Processing Group][UCSB], [University of California, Santa Barbara (UCSB)][UCSBSchool], working with Prof. [William Yang Wang][William]. He obtained his Ph.D. from the [National University of Singapore][NUS] in Jan 2022, jointly advised by Prof. [Min-Yen Kan][Min] and Prof. [Tat-Seng Chua][Chua]. Before joining NUS, he received Master's degree from the School of Computer Science at Tsinghua University in June 2017, working with Prof. [Juanzi Li][juanzili] and Prof. [Jie Tang][jietang]. He obtained his Bachelor's degree from Beihang University (2010 - 2014). He was a visiting Ph.D. student from 2020 to 2021, supervised by Prof. [William Yang Wang][William]. 
 
-His broad research interests include knowledge bases, natural language processing, and data mining. 
-To be specific, his research topics include **Question Answering**, **Question Generation**, and **Automated Fact Checking**. 
+His broad research interests include natural language processing, machine learning, and data mining. 
+To be specific, his research topics include **Trustworthy Large Language Models**, **Neuro-Symbolic Reasoning**, **Question Answering**, and **Automated Fact Checking**. 
 <!-- *multi-media structure learning of food recipes*.  -->
 
 [NGS]: http://www.nus.edu.sg/ngs/
