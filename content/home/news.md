@@ -40,7 +40,7 @@ date_format = "Jan 2006"
     </tr>
     <tr>
       <th scope="row" class="text-center">Nov 2023</th>
-      <td style="width: 85%;margin:auto;">Our paper <a href="https://arxiv.org/abs/2110.07803">Attacking Open-domain Question Answering by Injecting Misinformation</a> received the <b>Area Chair Award (Question Answering)</b> at <a href="http://www.ijcnlp-aacl2023.org/">IJCNLP-AACL 2023</a>. </td>
+      <td style="width: 85%;margin:auto;">Our paper <a href="https://arxiv.org/abs/2110.07803">Attacking Open-domain Question Answering by Injecting Misinformation</a> received the <b>Area Chair Award (Question Answering)</b> at <a href="https://www.ijcnlp-aacl2023.org/">IJCNLP-AACL 2023</a>. </td>
     </tr>
     <tr>
       <th scope="row" class="text-center">Oct 2023</th>
@@ -72,7 +72,7 @@ date_format = "Jan 2006"
     </tr>
     <tr>
       <th scope="row" class="text-center">Dec 2022</th>
-      <td style="width: 85%;margin:auto;">Starting from Dec 2022, I am thrilled to join the <a href="http://nlp.cs.ucsb.edu/index.html">UC Santa Barbara Natural Language Processing Group</a> as a <b>Postdoctoral Scholar</b>, working with Prof. <a href="https://sites.cs.ucsb.edu/~william/">William Yang Wang</a>. </td>
+      <td style="width: 85%;margin:auto;">Starting from Dec 2022, I am thrilled to join the <a href="https://nlp.cs.ucsb.edu/index.html">UC Santa Barbara Natural Language Processing Group</a> as a <b>Postdoctoral Scholar</b>, working with Prof. <a href="https://sites.cs.ucsb.edu/~william/">William Yang Wang</a>. </td>
     </tr>
     <tr>
       <th scope="row" class="text-center">Sep 2022</th>
@@ -160,7 +160,7 @@ date_format = "Jan 2006"
     </tr>
     <tr>
       <th scope="row" class="text-center">Jul 2020</th>
-      <td style="width: 85%;margin:auto;">From August 2020 to July 2021, I am joining the <a href="http://nlp.cs.ucsb.edu/">UC Santa Barbara Natural Language Processing Group</a> as a <b>visiting Ph.D. student</b>, supervised by Prof. <a href="https://sites.cs.ucsb.edu/~william/">William Wang</a>. </td>
+      <td style="width: 85%;margin:auto;">From August 2020 to July 2021, I am joining the <a href="https://nlp.cs.ucsb.edu/">UC Santa Barbara Natural Language Processing Group</a> as a <b>visiting Ph.D. student</b>, supervised by Prof. <a href="https://sites.cs.ucsb.edu/~william/">William Wang</a>. </td>
     </tr>
     <tr>
       <th scope="row" class="text-center">Apr 2020</th>
@@ -168,7 +168,7 @@ date_format = "Jan 2006"
     </tr>
     <tr>
       <th scope="row" class="text-center">Feb 2020</th>
-      <td style="width: 85%;margin:auto;">Our paper accepted by <b>CVPR 2020</b>: <a href="http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Hyperbolic_Visual_Embedding_Learning_for_Zero-Shot_Recognition_CVPR_2020_paper.pdf">Hyperbolic Visual Embedding Learning for Zero-Shot Recognition</a> (acceptance rate: 22%). </td>
+      <td style="width: 85%;margin:auto;">Our paper accepted by <b>CVPR 2020</b>: <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Hyperbolic_Visual_Embedding_Learning_for_Zero-Shot_Recognition_CVPR_2020_paper.pdf">Hyperbolic Visual Embedding Learning for Zero-Shot Recognition</a> (acceptance rate: 22%). </td>
     </tr>
     <tr>
       <th scope="row" class="text-center">Dec 2019</th>

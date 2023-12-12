@@ -77,18 +77,18 @@ His broad research interests include natural language processing, machine learni
 To be specific, his research topics include **Trustworthy Large Language Models**, **Neuro-Symbolic Reasoning**, **Question Answering**, and **Automated Fact Checking**. 
 <!-- *multi-media structure learning of food recipes*.  -->
 
-[NGS]: http://www.nus.edu.sg/ngs/
-[Tsinghua]: http://www.tsinghua.edu.cn/publish/newthu/index.html
-[juanzili]: http://keg.cs.tsinghua.edu.cn/persons/ljz/
-[jietang]: http://keg.cs.tsinghua.edu.cn/jietang/
-[BUAA]: http://www.buaa.edu.cn/
-[SOC]: http://www.comp.nus.edu.sg/
-[NUS]: http://www.nus.edu.sg/
-[Chua]: http://www.comp.nus.edu.sg/~chuats/
-[NExT]: http://next.comp.nus.edu.sg/
-[Min]: http://www.comp.nus.edu.sg/~kanmy/
-[WING]: http://wing.comp.nus.edu.sg/
-[UCSB]: http://nlp.cs.ucsb.edu/
+[NGS]: https://www.nus.edu.sg/ngs/
+[Tsinghua]: https://www.tsinghua.edu.cn/publish/newthu/index.html
+[juanzili]: https://keg.cs.tsinghua.edu.cn/persons/ljz/
+[jietang]: https://keg.cs.tsinghua.edu.cn/jietang/
+[BUAA]: https://www.buaa.edu.cn/
+[SOC]: https://www.comp.nus.edu.sg/
+[NUS]: https://www.nus.edu.sg/
+[Chua]: https://www.comp.nus.edu.sg/~chuats/
+[NExT]: https://next.comp.nus.edu.sg/
+[Min]: https://www.comp.nus.edu.sg/~kanmy/
+[WING]: https://wing.comp.nus.edu.sg/
+[UCSB]: https://nlp.cs.ucsb.edu/
 [William]: https://sites.cs.ucsb.edu/~william/
 [UCSBSchool]: https://www.ucsb.edu/
 

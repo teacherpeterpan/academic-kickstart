@@ -40,11 +40,11 @@ links:
 - icon: map-marker-alt
   icon_pack: fas
   name: IJCNLP, 2017
-  url: http://ijcnlp2017.org/site/page.aspx?pid=901&sid=1133&lang=en
+  url: https://ijcnlp2017.org/site/page.aspx?pid=901&sid=1133&lang=en
 
 url_pdf: /files/publications/IJCNLP17_Paper.pdf
 url_code: https://github.com/luogan1234/concept-expansion-snippet
-url_dataset: http://moocdata.cn/data/concept-extraction
+url_dataset: https://moocdata.cn/data/concept-extraction
 url_poster: 
 url_project:
 url_slides: /files/publications/IJCNLP17_Slides.pdf

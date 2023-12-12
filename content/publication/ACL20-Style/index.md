@@ -32,7 +32,7 @@ links:
 - icon: map-marker-alt
   icon_pack: fas
   name: ACL, 2020
-  url: http://acl2020.org/
+  url: https://acl2020.org/
 
 url_pdf: https://arxiv.org/pdf/2005.00701.pdf
 url_code:

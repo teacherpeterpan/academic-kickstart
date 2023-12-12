@@ -40,10 +40,10 @@ links:
 - icon: map-marker-alt
   icon_pack: fas
   name: ACL, 2017
-  url: http://acl2017.org/
+  url: https://acl2017.org/
 
 url_pdf: /files/publications/ACL17_Paper.pdf
-url_code: http://moocdata.cn/data/prerequisite-relation
+url_code: https://moocdata.cn/data/prerequisite-relation
 url_dataset:
 url_poster:
 url_project:

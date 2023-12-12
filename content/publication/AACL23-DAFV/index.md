@@ -40,7 +40,7 @@ links:
 - icon: map-marker-alt
   icon_pack: fas
   name: AACL-IJCNLP, 2023
-  url: http://www.ijcnlp-aacl2023.org/
+  url: https://www.ijcnlp-aacl2023.org/
 
 url_pdf: https://arxiv.org/abs/2309.09444
 url_code: https://github.com/teacherpeterpan/fact-checking-generalization

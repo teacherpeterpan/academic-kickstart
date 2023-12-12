@@ -40,9 +40,9 @@ links:
 - icon: map-marker-alt
   icon_pack: fas
   name: CVPR, 2020
-  url: http://cvpr2020.thecvf.com/
+  url: https://cvpr2020.thecvf.com/
 
-url_pdf: http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Hyperbolic_Visual_Embedding_Learning_for_Zero-Shot_Recognition_CVPR_2020_paper.pdf
+url_pdf: https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Hyperbolic_Visual_Embedding_Learning_for_Zero-Shot_Recognition_CVPR_2020_paper.pdf
 # url_pdf: 
 url_code: https://github.com/ShaoTengLiu/Hyperbolic_ZSL
 url_dataset:

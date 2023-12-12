@@ -76,32 +76,32 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "UCSB NLP Group"
-  organization_url = "http://nlp.cs.ucsb.edu/"
+  organization_url = "https://nlp.cs.ucsb.edu/"
   title = "Joining the UC Santa Barbara NLP Group!"
-  url = "http://nlp.cs.ucsb.edu/"
+  url = "https://nlp.cs.ucsb.edu/"
   date_start = "2020-07-20"
   date_end = ""
-  description = "From August 2020 to July 2021, I am joining the [UC Santa Barbara Natural Language Processing Group](http://nlp.cs.ucsb.edu/) as a visiting Ph.D. student, supervised by Prof. [William Wang](https://sites.cs.ucsb.edu/~william/). "
+  description = "From August 2020 to July 2021, I am joining the [UC Santa Barbara Natural Language Processing Group](https://nlp.cs.ucsb.edu/) as a visiting Ph.D. student, supervised by Prof. [William Wang](https://sites.cs.ucsb.edu/~william/). "
 
 [[item]]
   organization = "ACL 2020"
   organization_url = "https://acl2020.org/"
   title = "Two paper accepted by ACL 2020!"
   url = "https://acl2020.org/"
-  # certificate_url = "http://cvpr2020.thecvf.com/"
+  # certificate_url = "https://cvpr2020.thecvf.com/"
   date_start = "2020-04-04"
   date_end = ""
   description = "Two of our papers, [\"Semantic Graphs for Generating Deep Questions\"](https://arxiv.org/pdf/2004.12704.pdf) and [\"Expertise Style Transfer: A New Task Towards Better Communication between Experts and Laymenwas\"](/files/publications/ACL20_Style_Paper.pdf), were accepted by ACL 2020 (acceptance rate: 25.2%). "
 
 [[item]]
   organization = "CVPR 2020"
-  organization_url = "http://cvpr2020.thecvf.com/"
+  organization_url = "https://cvpr2020.thecvf.com/"
   title = "One paper accepted by CVPR 2020!"
-  url = "http://cvpr2020.thecvf.com/"
-  # certificate_url = "http://cvpr2020.thecvf.com/"
+  url = "https://cvpr2020.thecvf.com/"
+  # certificate_url = "https://cvpr2020.thecvf.com/"
   date_start = "2020-02-23"
   date_end = ""
-  description = "Our paper [\"Hyperbolic Visual Embedding Learning for Zero-Shot Recognition\"](http://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Hyperbolic_Visual_Embedding_Learning_for_Zero-Shot_Recognition_CVPR_2020_paper.pdf) was accepted by CVPR 2020 (acceptance rate: 22%). "
+  description = "Our paper [\"Hyperbolic Visual Embedding Learning for Zero-Shot Recognition\"](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Hyperbolic_Visual_Embedding_Learning_for_Zero-Shot_Recognition_CVPR_2020_paper.pdf) was accepted by CVPR 2020 (acceptance rate: 22%). "
 
 [[item]]
   organization = "Github"

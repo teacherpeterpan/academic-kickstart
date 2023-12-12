@@ -38,7 +38,7 @@ featured: false
 
 links:
 - name: Demo
-  url: http://thukeg.gitee.io/kqa-pro/demo.html
+  url: https://thukeg.gitee.io/kqa-pro/demo.html
 - icon: map-marker-alt
   icon_pack: fas
   name: ACL, 2022
@@ -48,7 +48,7 @@ url_pdf: https://openreview.net/pdf?id=Y_KZTJz2Zt
 url_code: https://github.com/shijx12/KQAPro_Baselines
 url_dataset: https://github.com/shijx12/KQAPro_Baselines
 url_poster:
-url_project: http://thukeg.gitee.io/kqa-pro/index.html
+url_project: https://thukeg.gitee.io/kqa-pro/index.html
 url_slides: 
 url_source:
 url_video: 
