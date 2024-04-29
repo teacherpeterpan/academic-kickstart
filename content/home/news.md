@@ -35,6 +35,10 @@ date_format = "Jan 2006"
 <table class="table table-hover">
   <tbody>
     <tr>
+      <th scope="row" class="text-center">Apr 2024</th>
+      <td style="width: 85%;margin:auto;">I will serve as the <b>Student Volunteer Chair</b> and an <b>Area Chair</b> of <a href="https://2024.aclweb.org/">ACL 2024</a>.</td>
+    </tr>
+    <tr>
       <th scope="row" class="text-center">Dec 2023</th>
       <td style="width: 85%;margin:auto;">Invited talk <b>"Combating Misinformation in the age of LLMs"</b> at <a href="https://x.com/nuscticnus/status/1732604461888291066?s=20">NUS Centre for Trusted Internet and Community</a>. <a href="https://speakerdeck.com/teacherpeterpan/combating-misinformation-in-the-age-of-llms">[Slides]</a></td>
     </tr>

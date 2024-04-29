@@ -21,6 +21,15 @@ date_format = "Jan 2006"
 +++
 
 <ul>
+  <li>Title: <strong>Empowering Large Language Models with Faithful Reasoning</strong>
+      <ul>
+        <li>Arizona State university, Jan 2024</li>
+        <li>Uiversity of California, Merced, Feb 2024</li>
+        <li>Singapore Management University, Feb 2024</li>
+        <li>MBZUAI, Feb 2024</li>
+        <li>Uiversity of Arizona, Mar 2024</li>
+      </ul>
+  </li>
   <li>Title: <strong>Towards Trustworthy Large Language Models</strong>
       <ul>
         <li>Peking University, Dec 2023</li>

@@ -21,6 +21,8 @@ date_format = "Jan 2006"
 +++
 
 <ul>
+  <li>Student Volunteer Chair, ACL 2024.</li>
+  <li>Area Chair / Action Editor ARR/ACL 2024.</li>
   <li>Area Chair (Question Answering Track) of ACL 2023.</li>
   <li>Invited Reviewer of TACL.</li>
   <li>Program Committee Member of EMNLP 2023, AAAI 2024.</li>
