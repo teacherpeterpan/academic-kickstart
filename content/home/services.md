@@ -21,6 +21,7 @@ date_format = "Jan 2006"
 +++
 
 <ul>
+  <li>Area Chair, EMNLP 2024, COLING 2025.</li>
   <li>Student Volunteer Chair, ACL 2024.</li>
   <li>Area Chair / Action Editor ARR/ACL 2024.</li>
   <li>Area Chair (Question Answering Track) of ACL 2023.</li>

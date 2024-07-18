@@ -28,6 +28,10 @@ date_format = "Jan 2006"
         <li>Singapore Management University, Feb 2024</li>
         <li>MBZUAI, Feb 2024</li>
         <li>Uiversity of Arizona, Mar 2024</li>
+        <li>Xi'an Jiaotong University, May 2024</li>
+        <li>Harbin Institute of Technology (Shenzhen), Jun 2024</li>
+        <li>Tsinghua University, Jul 2024</li>
+        <li>Peking University, Jul 2024</li>
       </ul>
   </li>
   <li>Title: <strong>Towards Trustworthy Large Language Models</strong>
